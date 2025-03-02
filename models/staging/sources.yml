@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: segment_data
+      - name: carrier_info
+      - name: airport_info

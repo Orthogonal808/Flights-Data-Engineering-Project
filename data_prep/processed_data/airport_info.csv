@@ -1,0 +1,2050 @@
+airport_id,city,state,airport_name,country
+GSP,"Greer, SC",SC,GSP Airport,USA
+ORD,"Chicago, IL",IL,ORD Airport,USA
+ACY,"Atlantic City, NJ",NJ,ACY Airport,USA
+BCT,"Boca Raton, FL",FL,BCT Airport,USA
+BGR,"Bangor, ME",ME,BGR Airport,USA
+BOS,"Boston, MA",MA,BOS Airport,USA
+BUF,"Buffalo, NY",NY,BUF Airport,USA
+CHS,"Charleston, SC",SC,CHS Airport,USA
+CLT,"Charlotte, NC",NC,CLT Airport,USA
+FOK,"Westhampton, NY",NY,FOK Airport,USA
+FXE,"Fort Lauderdale, FL",FL,FXE Airport,USA
+HPN,"White Plains, NY",NY,HPN Airport,USA
+ISP,"Islip, NY",NY,ISP Airport,USA
+JFK,"New York, NY",NY,JFK Airport,USA
+LAX,"Los Angeles, CA",CA,LAX Airport,USA
+OPF,"Miami, FL",FL,OPF Airport,USA
+PIT,"Pittsburgh, PA",PA,PIT Airport,USA
+SLC,"Salt Lake City, UT",UT,SLC Airport,USA
+TEB,"Teterboro, NJ",NJ,TEB Airport,USA
+TYS,"Knoxville, TN",TN,TYS Airport,USA
+VNY,"Van Nuys, CA",CA,VNY Airport,USA
+YAM,"Sault Ste. Marie, Canada",ON,YAM Airport,USA
+YBL,"Campbell River, Canada",BC,YBL Airport,USA
+YHZ,"Halifax, Canada",NS,YHZ Airport,USA
+YKF,"Kitchener, Canada",ON,YKF Airport,USA
+YOW,"Ottawa, Canada",ON,YOW Airport,USA
+YUL,"Montreal, Canada",QC,YUL Airport,USA
+YVR,"Vancouver, Canada",BC,YVR Airport,USA
+YYC,"Calgary, Canada",AB,YYC Airport,USA
+YYZ,"Toronto, Canada",ON,YYZ Airport,USA
+BDL,"Hartford, CT",CT,BDL Airport,USA
+BED,"Bedford, MA",MA,BED Airport,USA
+CVG,"Cincinnati, OH",KY,CVG Airport,USA
+DEN,"Denver, CO",CO,DEN Airport,USA
+LAS,"Las Vegas, NV",NV,LAS Airport,USA
+LGA,"New York, NY",NY,LGA Airport,USA
+MEM,"Memphis, TN",TN,MEM Airport,USA
+PBI,"West Palm Beach/Palm Beach, FL",FL,PBI Airport,USA
+PHL,"Philadelphia, PA",PA,PHL Airport,USA
+PWK,"Chicago, IL",IL,PWK Airport,USA
+ROA,"Roanoke, VA",VA,ROA Airport,USA
+SGR,"Sugar Land, TX",TX,SGR Airport,USA
+SWF,"Newburgh/Poughkeepsie, NY",NY,SWF Airport,USA
+APF,"Naples, FL",FL,APF Airport,USA
+BQK,"Brunswick, GA",GA,BQK Airport,USA
+FAT,"Fresno, CA",CA,FAT Airport,USA
+JAC,"Jackson, WY",WY,JAC Airport,USA
+MCO,"Orlando, FL",FL,MCO Airport,USA
+MDW,"Chicago, IL",IL,MDW Airport,USA
+PIE,"St. Petersburg, FL",FL,PIE Airport,USA
+TTN,"Trenton, NJ",NJ,TTN Airport,USA
+APA,"Denver, CO",CO,APA Airport,USA
+RDU,"Raleigh/Durham, NC",NC,RDU Airport,USA
+SFO,"San Francisco, CA",CA,SFO Airport,USA
+BHM,"Birmingham, AL",AL,BHM Airport,USA
+BWI,"Baltimore, MD",MD,BWI Airport,USA
+COU,"Columbia, MO",MO,COU Airport,USA
+EGE,"Eagle, CO",CO,EGE Airport,USA
+EWR,"Newark, NJ",NJ,EWR Airport,USA
+FRG,"East Farmingdale, NY",NY,FRG Airport,USA
+IAD,"Washington, DC",VA,IAD Airport,USA
+OAK,"Oakland, CA",CA,OAK Airport,USA
+PHX,"Phoenix, AZ",AZ,PHX Airport,USA
+PSM,"Portsmouth, NH",NH,PSM Airport,USA
+SAN,"San Diego, CA",CA,SAN Airport,USA
+SCF,"Phoenix, AZ",AZ,SCF Airport,USA
+STL,"St. Louis, MO",MO,STL Airport,USA
+UGN,"Waukegan, IL",IL,UGN Airport,USA
+MCC,"Sacramento, CA",CA,MCC Airport,USA
+AET,"Allakaket, AK",AK,AET Airport,USA
+AIN,"Wainwright, AK",AK,AIN Airport,USA
+AKP,"Anaktuvuk Pass, AK",AK,AKP Airport,USA
+ARC,"Arctic Village, AK",AK,ARC Airport,USA
+BTI,"Barter Island, AK",AK,BTI Airport,USA
+FAI,"Fairbanks, AK",AK,FAI Airport,USA
+GAL,"Galena, AK",AK,GAL Airport,USA
+HCR,"Holy Cross, AK",AK,HCR Airport,USA
+HSL,"Huslia, AK",AK,HSL Airport,USA
+HUS,"Hughes, AK",AK,HUS Airport,USA
+KAL,"Kaltag, AK",AK,KAL Airport,USA
+KBC,"Birch Creek, AK",AK,KBC Airport,USA
+NIB,"Nikolai, AK",AK,NIB Airport,USA
+PIZ,"Point Lay, AK",AK,PIZ Airport,USA
+RBY,"Ruby, AK",AK,RBY Airport,USA
+RMP,"Rampart, AK",AK,RMP Airport,USA
+SCC,"Deadhorse, AK",AK,SCC Airport,USA
+TAL,"Tanana, AK",AK,TAL Airport,USA
+UMT,"Umiat, AK",AK,UMT Airport,USA
+VEE,"Venetie, AK",AK,VEE Airport,USA
+WBQ,"Beaver, AK",AK,WBQ Airport,USA
+SDF,"Louisville, KY",KY,SDF Airport,USA
+XNA,"Fayetteville, AR",AR,XNA Airport,USA
+ACK,"Nantucket, MA",MA,ACK Airport,USA
+AXA,"The Valley, Anguilla",,AXA Airport,USA
+MBL,"Manistee/Ludington, MI",MI,MBL Airport,USA
+MVY,"Martha's Vineyard, MA",MA,MVY Airport,USA
+NEV,"Nevis, Saint Kitts and Nevis",,NEV Airport,USA
+SJU,"San Juan, PR",PR,SJU Airport,USA
+STT,"Charlotte Amalie, VI",VI,STT Airport,USA
+STX,"Christiansted, VI",VI,STX Airport,USA
+VIJ,"Virgin Gorda, British Virgin Islands",,VIJ Airport,USA
+VQS,"Vieques, PR",PR,VQS Airport,USA
+ATL,"Atlanta, GA",GA,ATL Airport,USA
+BDA,"Hamilton, Bermuda",,BDA Airport,USA
+BNA,"Nashville, TN",TN,BNA Airport,USA
+CTG,"Cartagena, Colombia",,CTG Airport,USA
+DFW,"Dallas/Fort Worth, TX",TX,DFW Airport,USA
+FLL,"Fort Lauderdale, FL",FL,FLL Airport,USA
+MSY,"New Orleans, LA",LA,MSY Airport,USA
+RSW,"Fort Myers, FL",FL,RSW Airport,USA
+SDQ,"Santo Domingo, Dominican Republic",,SDQ Airport,USA
+TPA,"Tampa, FL",FL,TPA Airport,USA
+LNK,"Lincoln, NE",NE,LNK Airport,USA
+NLU,"Mexico City, Mexico",,NLU Airport,USA
+ABQ,"Albuquerque, NM",NM,ABQ Airport,USA
+AEX,"Alexandria, LA",LA,AEX Airport,USA
+AMS,"Amsterdam, Netherlands",,AMS Airport,USA
+BFI,"Seattle, WA",WA,BFI Airport,USA
+BIF,"El Paso, TX",TX,BIF Airport,USA
+BIL,"Billings, MT",MT,BIL Airport,USA
+BTR,"Baton Rouge, LA",LA,BTR Airport,USA
+CLE,"Cleveland, OH",OH,CLE Airport,USA
+CMI,"Champaign/Urbana, IL",IL,CMI Airport,USA
+DAL,"Dallas, TX",TX,DAL Airport,USA
+DTW,"Detroit, MI",MI,DTW Airport,USA
+ELP,"El Paso, TX",TX,ELP Airport,USA
+FAY,"Fayetteville, NC",NC,FAY Airport,USA
+GPT,"Gulfport/Biloxi, MS",MS,GPT Airport,USA
+GRB,"Green Bay, WI",WI,GRB Airport,USA
+HOU,"Houston, TX",TX,HOU Airport,USA
+IAH,"Houston, TX",TX,IAH Airport,USA
+IND,"Indianapolis, IN",IN,IND Airport,USA
+LSV,"Las Vegas, NV",NV,LSV Airport,USA
+MCI,"Kansas City, MO",MO,MCI Airport,USA
+MFE,"Mission/McAllen/Edinburg, TX",TX,MFE Airport,USA
+MIA,"Miami, FL",FL,MIA Airport,USA
+MKC,"Kansas City, MO",MO,MKC Airport,USA
+MKE,"Milwaukee, WI",WI,MKE Airport,USA
+MSN,"Madison, WI",WI,MSN Airport,USA
+MSP,"Minneapolis, MN",MN,MSP Airport,USA
+MXP,"Milan, Italy",,MXP Airport,USA
+NKT,"Sirnak, Turkey",,NKT Airport,USA
+PDX,"Portland, OR",OR,PDX Airport,USA
+PTK,"Pontiac, MI",MI,PTK Airport,USA
+PVD,"Providence, RI",RI,PVD Airport,USA
+RIV,"Riverside, CA",CA,RIV Airport,USA
+ROC,"Rochester, NY",NY,ROC Airport,USA
+SAV,"Savannah, GA",GA,SAV Airport,USA
+SEA,"Seattle, WA",WA,SEA Airport,USA
+SJC,"San Jose, CA",CA,SJC Airport,USA
+SRQ,"Sarasota/Bradenton, FL",FL,SRQ Airport,USA
+SVN,"Savannah, GA",GA,SVN Airport,USA
+SYR,"Syracuse, NY",NY,SYR Airport,USA
+TLV,"Tel Aviv, Israel",,TLV Airport,USA
+YUM,"Yuma, AZ",AZ,YUM Airport,USA
+CNF,"Belo Horizonte, Brazil",,CNF Airport,USA
+GRU,"Sao Paulo, Brazil",,GRU Airport,USA
+PAE,"Everett, WA",WA,PAE Airport,USA
+PUJ,"Punta Cana, Dominican Republic",,PUJ Airport,USA
+ALB,"Albany, NY",NY,ALB Airport,USA
+ANC,"Anchorage, AK",AK,ANC Airport,USA
+ANI,"Aniak, AK",AK,ANI Airport,USA
+BET,"Bethel, AK",AK,BET Airport,USA
+ILI,"Iliamna, AK",AK,ILI Airport,USA
+PTH,"Port Heiden, AK",AK,PTH Airport,USA
+WRG,"Wrangell, AK",AK,WRG Airport,USA
+YAK,"Yakutat, AK",AK,YAK Airport,USA
+HKG,"Hong Kong, Hong Kong",,HKG Airport,USA
+PBG,"Plattsburgh, NY",NY,PBG Airport,USA
+BID,"Block Island, RI",RI,BID Airport,USA
+WST,"Westerly, RI",RI,WST Airport,USA
+AUS,"Austin, TX",TX,AUS Airport,USA
+BOI,"Boise, ID",ID,BOI Airport,USA
+BUR,"Burbank, CA",CA,BUR Airport,USA
+CMH,"Columbus, OH",OH,CMH Airport,USA
+MYR,"Myrtle Beach, SC",SC,MYR Airport,USA
+ORF,"Norfolk, VA",VA,ORF Airport,USA
+PAP,"Port-au-Prince, Haiti",,PAP Airport,USA
+RIC,"Richmond, VA",VA,RIC Airport,USA
+RNO,"Reno, NV",NV,RNO Airport,USA
+SAT,"San Antonio, TX",TX,SAT Airport,USA
+SMF,"Sacramento, CA",CA,SMF Airport,USA
+SNA,"Santa Ana, CA",CA,SNA Airport,USA
+HNL,"Honolulu, HI",HI,HNL Airport,USA
+LIH,"Lihue, HI",HI,LIH Airport,USA
+FCA,"Kalispell, MT",MT,FCA Airport,USA
+GRR,"Grand Rapids, MI",MI,GRR Airport,USA
+JAX,"Jacksonville, FL",FL,JAX Airport,USA
+MBJ,"Montego Bay, Jamaica",,MBJ Airport,USA
+OMA,"Omaha, NE",NE,OMA Airport,USA
+PSP,"Palm Springs, CA",CA,PSP Airport,USA
+TUS,"Tucson, AZ",AZ,TUS Airport,USA
+TVC,"Traverse City, MI",MI,TVC Airport,USA
+CPX,"Culebra, PR",PR,CPX Airport,USA
+NAS,"Nassau, The Bahamas",,NAS Airport,USA
+PNX,"Sherman-Denison, TX",TX,PNX Airport,USA
+SBA,"Santa Barbara, CA",CA,SBA Airport,USA
+HDN,"Hayden, CO",CO,HDN Airport,USA
+PLS,"Providenciales, Turks and Caicos Islands",,PLS Airport,USA
+AFW,"Dallas/Fort Worth, TX",TX,AFW Airport,USA
+AVL,"Asheville, NC",NC,AVL Airport,USA
+CAE,"Columbia, SC",SC,CAE Airport,USA
+CID,"Cedar Rapids/Iowa City, IA",IA,CID Airport,USA
+DCA,"Washington, DC",VA,DCA Airport,USA
+GSO,"Greensboro/High Point, NC",NC,GSO Airport,USA
+HYA,"Hyannis, MA",MA,HYA Airport,USA
+FBS,"Friday Harbor, WA",WA,FBS Airport,USA
+KEH,"Kenmore, WA",WA,KEH Airport,USA
+LKE,"Seattle, WA",WA,LKE Airport,USA
+YWH,"Victoria, Canada",BC,YWH Airport,USA
+SHX,"Shageluk, AK",AK,SHX Airport,USA
+EIS,"Road Town, British Virgin Islands",,EIS Airport,USA
+BRW,"Barrow, AK",AK,BRW Airport,USA
+RFD,"Rockford, IL",IL,RFD Airport,USA
+NRT,"Tokyo, Japan",,NRT Airport,USA
+SNN,"Shannon, Ireland",,SNN Airport,USA
+ATK,"Atqasuk, AK",AK,ATK Airport,USA
+TKJ,"Tok, AK",AK,TKJ Airport,USA
+PMI,"Palma Mallorca, Spain",,PMI Airport,USA
+ARN,"Stockholm, Sweden",,ARN Airport,USA
+YFB,"Iqaluit, Canada",NU,YFB Airport,USA
+HKB,"Healy, AK",AK,HKB Airport,USA
+BVU,"Beluga, AK",AK,BVU Airport,USA
+MRI,"Anchorage, AK",AK,MRI Airport,USA
+TYE,"Tyonek, AK",AK,TYE Airport,USA
+BTT,"Bettles, AK",AK,BTT Airport,USA
+CXF,"Coldfoot, AK",AK,CXF Airport,USA
+YYT,"St. John's, Canada",NL,YYT Airport,USA
+HOM,"Homer, AK",AK,HOM Airport,USA
+PPC,"Prospect Creek, AK",AK,PPC Airport,USA
+OME,"Nome, AK",AK,OME Airport,USA
+ESD,"Eastsound, WA",WA,ESD Airport,USA
+NUI,"Nuiqsut, AK",AK,NUI Airport,USA
+LMA,"Lake Minchumina, AK",AK,LMA Airport,USA
+BTV,"Burlington, VT",VT,BTV Airport,USA
+AKI,"Akiak, AK",AK,AKI Airport,USA
+ATT,"Atmautluak, AK",AK,ATT Airport,USA
+EEK,"Eek, AK",AK,EEK Airport,USA
+KKH,"Kongiganak, AK",AK,KKH Airport,USA
+KKI,"Akiachak, AK",AK,KKI Airport,USA
+KLG,"Kalskag, AK",AK,KLG Airport,USA
+KPN,"Kipnuk, AK",AK,KPN Airport,USA
+KUK,"Kasigluk, AK",AK,KUK Airport,USA
+KWN,"Quinhagak, AK",AK,KWN Airport,USA
+KWT,"Kwethluk, AK",AK,KWT Airport,USA
+MLL,"Marshall, AK",AK,MLL Airport,USA
+NUP,"Nunapitchuk, AK",AK,NUP Airport,USA
+PKA,"Napaskiak, AK",AK,PKA Airport,USA
+TLT,"Tuluksak, AK",AK,TLT Airport,USA
+WNA,"Napakiak, AK",AK,WNA Airport,USA
+RSH,"Russian Mission, AK",AK,RSH Airport,USA
+WTL,"Tuntutuliak, AK",AK,WTL Airport,USA
+OOK,"Toksook, AK",AK,OOK Airport,USA
+PQS,"Pilot Station, AK",AK,PQS Airport,USA
+LBG,"Paris, France",,LBG Airport,USA
+MLY,"Manley Hot Springs, AK",AK,MLY Airport,USA
+JNU,"Juneau, AK",AK,JNU Airport,USA
+PEC,"Pelican, AK",AK,PEC Airport,USA
+DCK,"Dahl Creek, AK",AK,DCK Airport,USA
+FYU,"Fort Yukon, AK",AK,FYU Airport,USA
+MNT,"Minto, AK",AK,MNT Airport,USA
+STG,"St. George Island, AK",AK,STG Airport,USA
+SVS,"Stevens Village, AK",AK,SVS Airport,USA
+VIK,"Kavik River, AK",AK,VIK Airport,USA
+WLK,"Selawik, AK",AK,WLK Airport,USA
+HNS,"Haines, AK",AK,HNS Airport,USA
+ANV,"Anvik, AK",AK,ANV Airport,USA
+CYF,"Chefornak, AK",AK,CYF Airport,USA
+EMK,"Emmonak, AK",AK,EMK Airport,USA
+GNU,"Goodnews Bay, AK",AK,GNU Airport,USA
+KGX,"Grayling, AK",AK,KGX Airport,USA
+KSM,"St. Mary's, AK",AK,KSM Airport,USA
+KWK,"Kwigillingok, AK",AK,KWK Airport,USA
+MOU,"Mountain Village, AK",AK,MOU Airport,USA
+NME,"Nightmute, AK",AK,NME Airport,USA
+PTU,"Platinum, AK",AK,PTU Airport,USA
+SCM,"Scammon Bay, AK",AK,SCM Airport,USA
+TNK,"Tununak, AK",AK,TNK Airport,USA
+VAK,"Chevak, AK",AK,VAK Airport,USA
+TKE,"Tenakee, AK",AK,TKE Airport,USA
+AUK,"Alakanuk, AK",AK,AUK Airport,USA
+CHU,"Chuathbaluk, AK",AK,CHU Airport,USA
+A26,"Ivotuk, AK",AK,A26 Airport,USA
+AGN,"Angoon, AK",AK,AGN Airport,USA
+ELV,"Elfin Cove, AK",AK,ELV Airport,USA
+EXI,"Excursion Inlet, AK",AK,EXI Airport,USA
+FNR,"Funter Bay Alaska, AK",AK,FNR Airport,USA
+GST,"Gustavus, AK",AK,GST Airport,USA
+HNH,"Hoonah, AK",AK,HNH Airport,USA
+KAE,"Kake, AK",AK,KAE Airport,USA
+PSG,"Petersburg, AK",AK,PSG Airport,USA
+PTD,"Port Alexander, AK",AK,PTD Airport,USA
+SGY,"Skagway, AK",AK,SGY Airport,USA
+SIT,"Sitka, AK",AK,SIT Airport,USA
+06A,"Kizhuyak, AK",AK,06A Airport,USA
+A17,"Port Vita, AK",AK,A17 Airport,USA
+A43,"Kodiak Island, AK",AK,A43 Airport,USA
+ALZ,"Lazy Bay, AK",AK,ALZ Airport,USA
+AOS,"Amook Bay, AK",AK,AOS Airport,USA
+BFB,"Blue Fox Bay, AK",AK,BFB Airport,USA
+JLA,"Cooper Lodge, AK",AK,JLA Airport,USA
+KKB,"Kitoi Bay, AK",AK,KKB Airport,USA
+KLN,"Larsen Bay, AK",AK,KLN Airport,USA
+KPR,"Port Williams, AK",AK,KPR Airport,USA
+KPY,"Port Bailey, AK",AK,KPY Airport,USA
+KWP,"West Point, AK",AK,KWP Airport,USA
+KZB,"Zachar Bay, AK",AK,KZB Airport,USA
+SYB,"Seal Bay, AK",AK,SYB Airport,USA
+UGI,"Uganik, AK",AK,UGI Airport,USA
+A34,"Laura Lake, AK",AK,A34 Airport,USA
+KMY,"Moser Bay, AK",AK,KMY Airport,USA
+A30,"Terror Lake, AK",AK,A30 Airport,USA
+EHR,"Eagle Harbor, AK",AK,EHR Airport,USA
+KOY,"Olga Bay, AK",AK,KOY Airport,USA
+KOZ,"Ouzinkie, AK",AK,KOZ Airport,USA
+OLH,"Old Harbor, AK",AK,OLH Airport,USA
+ONN,"Onion Bay, AK",AK,ONN Airport,USA
+YAZ,"Tofino, Canada",BC,YAZ Airport,USA
+CZN,"Chisana, AK",AK,CZN Airport,USA
+SAC,"Sacramento, CA",CA,SAC Airport,USA
+CIK,"Chalkyitsik, AK",AK,CIK Airport,USA
+HSH,"Las Vegas, NV",NV,HSH Airport,USA
+LGB,"Long Beach, CA",CA,LGB Airport,USA
+BNF,"Baranof, AK",AK,BNF Airport,USA
+1G4,"Peach Springs, AZ",AZ,1G4 Airport,USA
+L41,"Marble Canyon, AZ",AZ,L41 Airport,USA
+YYR,"Goose Bay, Canada",NL,YYR Airport,USA
+KNK,"Kokhanok, AK",AK,KNK Airport,USA
+MCY,"Maroochydore, Australia",,MCY Airport,USA
+KYU,"Koyukuk, AK",AK,KYU Airport,USA
+NUL,"Nulato, AK",AK,NUL Airport,USA
+DJN,"Delta Junction, AK",AK,DJN Airport,USA
+EAA,"Eagle, AK",AK,EAA Airport,USA
+IRC,"Circle, AK",AK,IRC Airport,USA
+TLJ,"Tatalina, AK",AK,TLJ Airport,USA
+ORI,"Port Lions, AK",AK,ORI Airport,USA
+KYK,"Karluk, AK",AK,KYK Airport,USA
+AKK,"Akhiok, AK",AK,AKK Airport,USA
+09A,"Homer, AK",AK,09A Airport,USA
+ADQ,"Kodiak, AK",AK,ADQ Airport,USA
+AKN,"King Salmon, AK",AK,AKN Airport,USA
+DGB,"Danger Bay, AK",AK,DGB Airport,USA
+KCQ,"Chignik, AK",AK,KCQ Airport,USA
+SKJ,"Sitkinak, AK",AK,SKJ Airport,USA
+SWD,"Seward, AK",AK,SWD Airport,USA
+FRY,"Fryeburg, ME",ME,FRY Airport,USA
+HVN,"New Haven, CT",CT,HVN Airport,USA
+MMU,"Morristown, NJ",NJ,MMU Airport,USA
+MTP,"Montauk Point, NY",NY,MTP Airport,USA
+OWD,"Norwood, MA",MA,OWD Airport,USA
+PNE,"Philadelphia, PA",PA,PNE Airport,USA
+RDG,"Reading, PA",PA,RDG Airport,USA
+BDR,"Bridgeport, CT",CT,BDR Airport,USA
+GON,"New London/Groton, CT",CT,GON Airport,USA
+PA5,"West Chester, PA",PA,PA5 Airport,USA
+PCT,"Princeton, NJ",NJ,PCT Airport,USA
+PVC,"Provincetown, MA",MA,PVC Airport,USA
+SMO,"Santa Monica, CA",CA,SMO Airport,USA
+STS,"Santa Rosa, CA",CA,STS Airport,USA
+TRM,"Thermal, CA",CA,TRM Airport,USA
+LCI,"Laconia, NH",NH,LCI Airport,USA
+NNK,"Naknek, AK",AK,NNK Airport,USA
+MRY,"Monterey, CA",CA,MRY Airport,USA
+FID,"Fishers Island, NY",NY,FID Airport,USA
+MIV,"Millville, NJ",NJ,MIV Airport,USA
+NPT,"Newport, RI",RI,NPT Airport,USA
+GCN,"Grand Canyon, AZ",AZ,GCN Airport,USA
+PGA,"Page, AZ",AZ,PGA Airport,USA
+ESN,"Easton, MD",MD,ESN Airport,USA
+BMI,"Bloomington/Normal, IL",IL,BMI Airport,USA
+FNC,"Funchal, Portugal",,FNC Airport,USA
+FWA,"Fort Wayne, IN",IN,FWA Airport,USA
+YIP,"Detroit, MI",MI,YIP Airport,USA
+SML,"Stella Maris, The Bahamas",,SML Airport,USA
+GGT,"Moss Town, The Bahamas",,GGT Airport,USA
+NHT,"Northolt, United Kingdom",,NHT Airport,USA
+FAB,"Farnborough, United Kingdom",,FAB Airport,USA
+LTN,"London, United Kingdom",,LTN Airport,USA
+RST,"Rochester, MN",MN,RST Airport,USA
+EDI,"Edinburgh, United Kingdom",,EDI Airport,USA
+AGP,"Malaga, Spain",,AGP Airport,USA
+WJF,"Lancaster, CA",CA,WJF Airport,USA
+GTF,"Great Falls, MT",MT,GTF Airport,USA
+CLP,"Clarks Point, AK",AK,CLP Airport,USA
+DLG,"Dillingham, AK",AK,DLG Airport,USA
+KEK,"Ekwok, AK",AK,KEK Airport,USA
+KNW,"New Stuyahok, AK",AK,KNW Airport,USA
+TOG,"Togiak, AK",AK,TOG Airport,USA
+KMO,"Manokotak, AK",AK,KMO Airport,USA
+KOT,"Kotlik, AK",AK,KOT Airport,USA
+HPB,"Hooper Bay, AK",AK,HPB Airport,USA
+WWT,"Newtok, AK",AK,WWT Airport,USA
+TWA,"Twin Hills, AK",AK,TWA Airport,USA
+LIN,"Milan, Italy",,LIN Airport,USA
+BQH,"London, United Kingdom",,BQH Airport,USA
+KOA,"Kona, HI",HI,KOA Airport,USA
+BKC,"Buckland, AK",AK,BKC Airport,USA
+CKD,"Crooked Creek, AK",AK,CKD Airport,USA
+IAN,"Kiana, AK",AK,IAN Airport,USA
+KKA,"Koyuk, AK",AK,KKA Airport,USA
+OTZ,"Kotzebue, AK",AK,OTZ Airport,USA
+RDV,"Red Devil, AK",AK,RDV Airport,USA
+SKK,"Shaktoolik, AK",AK,SKK Airport,USA
+SLQ,"Sleetmute, AK",AK,SLQ Airport,USA
+SMK,"St. Michael, AK",AK,SMK Airport,USA
+SRV,"Stony River, AK",AK,SRV Airport,USA
+SXP,"Sheldon Point, AK",AK,SXP Airport,USA
+UNK,"Unalakleet, AK",AK,UNK Airport,USA
+WBB,"Stebbins, AK",AK,WBB Airport,USA
+WTK,"Noatak, AK",AK,WTK Airport,USA
+KPB,"Point Baker, AK",AK,KPB Airport,USA
+WFB,"Ketchikan, AK",AK,WFB Airport,USA
+EDA,"Edna Bay, AK",AK,EDA Airport,USA
+HYL,"Hollis, AK",AK,HYL Airport,USA
+1AK,"Mertarvik, AK",AK,1AK Airport,USA
+ABL,"Ambler, AK",AK,ABL Airport,USA
+DRG,"Deering, AK",AK,DRG Airport,USA
+KVL,"Kivalina, AK",AK,KVL Airport,USA
+OBU,"Kobuk, AK",AK,OBU Airport,USA
+GUM,"Guam, TT",TT,GUM Airport,USA
+ROP,"Rota, TT",TT,ROP Airport,USA
+SPN,"Saipan, TT",TT,SPN Airport,USA
+TIQ,"Tinian, TT",TT,TIQ Airport,USA
+BBX,"Blue Bell, PA",PA,BBX Airport,USA
+JRA,"New York, NY",NY,JRA Airport,USA
+JRB,"New York, NY",NY,JRB Airport,USA
+TSS,"New York, NY",NY,TSS Airport,USA
+A65,"Karluk Portage, AK",AK,A65 Airport,USA
+A75,"Malina Bay, AK",AK,A75 Airport,USA
+KKL,"Karluk Lake, AK",AK,KKL Airport,USA
+6AK,"Newtok, AK",AK,6AK Airport,USA
+CZF,"Cape Romanzof, AK",AK,CZF Airport,USA
+EHM,"Cape Newenham, AK",AK,EHM Airport,USA
+EGX,"Egegik, AK",AK,EGX Airport,USA
+ENA,"Kenai, AK",AK,ENA Airport,USA
+IGG,"Igiugig, AK",AK,IGG Airport,USA
+KGK,"Koliganek, AK",AK,KGK Airport,USA
+KLL,"Levelock, AK",AK,KLL Airport,USA
+WSN,"South Naknek, AK",AK,WSN Airport,USA
+CGA,"Craig, AK",AK,CGA Airport,USA
+DOF,"Dora Bay, AK",AK,DOF Airport,USA
+HYG,"Hydaburg, AK",AK,HYG Airport,USA
+KCC,"Coffman Cove, AK",AK,KCC Airport,USA
+KTB,"Thorne Bay, AK",AK,KTB Airport,USA
+KXA,"Kasaan, AK",AK,KXA Airport,USA
+MTM,"Metlakatla, AK",AK,MTM Airport,USA
+NKI,"Naukiti, AK",AK,NKI Airport,USA
+PPV,"Port Protection, AK",AK,PPV Airport,USA
+WMK,"Meyers Chuck, AK",AK,WMK Airport,USA
+WWP,"Whale Pass, AK",AK,WWP Airport,USA
+WWD,"Cape May, NJ",NJ,WWD Airport,USA
+ADS,"Dallas, TX",TX,ADS Airport,USA
+APC,"Napa, CA",CA,APC Airport,USA
+C01,"Camarillo, CA",CA,C01 Airport,USA
+COE,"Coeur d'Alene, ID",ID,COE Airport,USA
+DSM,"Des Moines, IA",IA,DSM Airport,USA
+HHR,"Hawthorne, CA",CA,HHR Airport,USA
+NUQ,"Mountain View, CA",CA,NUQ Airport,USA
+OGD,"Ogden, UT",UT,OGD Airport,USA
+OXR,"Oxnard/Ventura, CA",CA,OXR Airport,USA
+PRB,"Paso Robles, CA",CA,PRB Airport,USA
+SAF,"Santa Fe, NM",NM,SAF Airport,USA
+TVL,"Lake Tahoe, CA",CA,TVL Airport,USA
+VCV,"Victorville, CA",CA,VCV Airport,USA
+XWW,"Driggs, ID",ID,XWW Airport,USA
+YCG,"Castlegar/Nelson/Trail, Canada",BC,YCG Airport,USA
+PIP,"Pilot Point, AK",AK,PIP Airport,USA
+UGS,"Ugashik, AK",AK,UGS Airport,USA
+WHD,"Hyder, AK",AK,WHD Airport,USA
+N4Y,"Southampton, NY",NY,N4Y Airport,USA
+PA8,"Collegeville, PA",PA,PA8 Airport,USA
+A87,"Carry Inlet, AK",AK,A87 Airport,USA
+AVW,"Tucson, AZ",AZ,AVW Airport,USA
+BZN,"Bozeman, MT",MT,BZN Airport,USA
+CHA,"Chattanooga, TN",TN,CHA Airport,USA
+DVT,"Phoenix, AZ",AZ,DVT Airport,USA
+HAF,"Half Moon Bay, CA",CA,HAF Airport,USA
+MHR,"Sacramento, CA",CA,MHR Airport,USA
+MSO,"Missoula, MT",MT,MSO Airport,USA
+OUN,"Norman, OK",OK,OUN Airport,USA
+RDM,"Bend/Redmond, OR",OR,RDM Airport,USA
+RIL,"Rifle, CO",CO,RIL Airport,USA
+SJD,"San Jose del Cabo, Mexico",,SJD Airport,USA
+TUL,"Tulsa, OK",OK,TUL Airport,USA
+A04,"Red Lake, AK",AK,A04 Airport,USA
+A29,"Kiluda Bay, AK",AK,A29 Airport,USA
+WQX,"Kiavak, AK",AK,WQX Airport,USA
+BLD,"Boulder City, NV",NV,BLD Airport,USA
+FTW,"Dallas/Fort Worth, TX",TX,FTW Airport,USA
+MYF,"San Diego, CA",CA,MYF Airport,USA
+SUN,"Sun Valley/Hailey/Ketchum, ID",ID,SUN Airport,USA
+NJ1,"Berlin, NJ",NJ,NJ1 Airport,USA
+A50,"Big Bay, AK",AK,A50 Airport,USA
+CNY,"Moab, UT",UT,CNY Airport,USA
+FLG,"Flagstaff, AZ",AZ,FLG Airport,USA
+ONT,"Ontario, CA",CA,ONT Airport,USA
+SBD,"San Bernardino, CA",CA,SBD Airport,USA
+SEE,"San Diego, CA",CA,SEE Airport,USA
+SGU,"St. George, UT",UT,SGU Airport,USA
+LVD,"Lime Village, AK",AK,LVD Airport,USA
+ZXH,"Chomondely Sound, AK",AK,ZXH Airport,USA
+HWD,"Hayward, CA",CA,HWD Airport,USA
+LVK,"Livermore, CA",CA,LVK Airport,USA
+MMH,"Mammoth Lakes, CA",CA,MMH Airport,USA
+MWH,"Moses Lake, WA",WA,MWH Airport,USA
+LBF,"North Platte, NE",NE,LBF Airport,USA
+MCE,"Merced, CA",CA,MCE Airport,USA
+MAD,"Madrid, Spain",,MAD Airport,USA
+MYU,"Mekoryuk, AK",AK,MYU Airport,USA
+CIA,"Rome, Italy",,CIA Airport,USA
+NCE,"Nice, France",,NCE Airport,USA
+TYM,"Exuma, The Bahamas",,TYM Airport,USA
+A03,"Hallo Bay, AK",AK,A03 Airport,USA
+SOV,"Seldovia, AK",AK,SOV Airport,USA
+NNL,"Nondalton, AK",AK,NNL Airport,USA
+PDB,"Pedro Bay, AK",AK,PDB Airport,USA
+PTA,"Port Alsworth, AK",AK,PTA Airport,USA
+QQB,"Keyes Point, AK",AK,QQB Airport,USA
+LCK,"Columbus, OH",OH,LCK Airport,USA
+YOO,"Oshawa, Canada",ON,YOO Airport,USA
+DET,"Detroit, MI",MI,DET Airport,USA
+SBN,"South Bend, IN",IN,SBN Airport,USA
+YQB,"Quebec, Canada",QC,YQB Airport,USA
+BLM,"Belmar/Farmingdale, NJ",NJ,BLM Airport,USA
+YEG,"Edmonton, Canada",AB,YEG Airport,USA
+LPW,"Little Port Walter, AK",AK,LPW Airport,USA
+PTL,"Port Armstrong, AK",AK,PTL Airport,USA
+SDX,"Sedona, AZ",AZ,SDX Airport,USA
+ASE,"Aspen, CO",CO,ASE Airport,USA
+BJC,"Broomfield, CO",CO,BJC Airport,USA
+CNO,"Chino, CA",CA,CNO Airport,USA
+EAR,"Kearney, NE",NE,EAR Airport,USA
+GUP,"Gallup, NM",NM,GUP Airport,USA
+MEV,"Minden, NV",NV,MEV Airport,USA
+PRC,"Prescott, AZ",AZ,PRC Airport,USA
+ROW,"Roswell, NM",NM,ROW Airport,USA
+UT1,"Heber, UT",UT,UT1 Airport,USA
+WQC,"Hamilton, MT",MT,WQC Airport,USA
+CLD,"Carlsbad, CA",CA,CLD Airport,USA
+CLM,"Port Angeles, WA",WA,CLM Airport,USA
+FNL,"Fort Collins/Loveland, CO",CO,FNL Airport,USA
+MVW,"Burlington/Mount Vernon, WA",WA,MVW Airport,USA
+PVU,"Provo, UT",UT,PVU Airport,USA
+RAP,"Rapid City, SD",SD,RAP Airport,USA
+RBD,"Dallas/Fort Worth, TX",TX,RBD Airport,USA
+SGF,"Springfield, MO",MO,SGF Airport,USA
+SHR,"Sheridan, WY",WY,SHR Airport,USA
+TKF,"Truckee, CA",CA,TKF Airport,USA
+CBK,"Colby, KS",KS,CBK Airport,USA
+CSL,"Cabo San Lucas, Mexico",,CSL Airport,USA
+EUG,"Eugene, OR",OR,EUG Airport,USA
+MOD,"Modesto, CA",CA,MOD Airport,USA
+SCK,"Stockton, CA",CA,SCK Airport,USA
+TWF,"Twin Falls, ID",ID,TWF Airport,USA
+IDA,"Idaho Falls, ID",ID,IDA Airport,USA
+MAF,"Midland/Odessa, TX",TX,MAF Airport,USA
+OR4,"Bend, OR",OR,OR4 Airport,USA
+MTJ,"Montrose/Delta, CO",CO,MTJ Airport,USA
+TEX,"Telluride, CO",CO,TEX Airport,USA
+SLE,"Salem, OR",OR,SLE Airport,USA
+KEF,"Keflavik/Reykjavik, Iceland",,KEF Airport,USA
+IQT,"Iquitos, Peru",,IQT Airport,USA
+SMA,"Santa Maria, Portugal",,SMA Airport,USA
+DHB,"Deer Harbor, WA",WA,DHB Airport,USA
+LPS,"Lopez Island, WA",WA,LPS Airport,USA
+RCE,"Roche Harbor, WA",WA,RCE Airport,USA
+WSX,"Westsound, WA",WA,WSX Airport,USA
+RSJ,"Rosario, WA",WA,RSJ Airport,USA
+ZNA,"Nanaimo, Canada",BC,ZNA Airport,USA
+SXQ,"Soldotna, AK",AK,SXQ Airport,USA
+JZE,"Trading Bay, AK",AK,JZE Airport,USA
+PGM,"Port Graham, AK",AK,PGM Airport,USA
+PCA,"Portage Creek, AK",AK,PCA Airport,USA
+CHP,"Circle Hot Springs, AK",AK,CHP Airport,USA
+CBA,"Corner Bay, AK",AK,CBA Airport,USA
+DIO,"Diomede Island, AK",AK,DIO Airport,USA
+CXH,"Vancouver, Canada",BC,CXH Airport,USA
+RNT,"Renton, WA",WA,RNT Airport,USA
+SHN,"Shelton, WA",WA,SHN Airport,USA
+VWO,"Arlington, WA",WA,VWO Airport,USA
+PUL,"Poulsbo, WA",WA,PUL Airport,USA
+TWD,"Port Townsend, WA",WA,TWD Airport,USA
+TIW,"Tacoma, WA",WA,TIW Airport,USA
+PHO,"Point Hope, AK",AK,PHO Airport,USA
+TCT,"Takotna, AK",AK,TCT Airport,USA
+LKK,"Kulik Lake, AK",AK,LKK Airport,USA
+RDB,"Red Dog, AK",AK,RDB Airport,USA
+BFM,"Mobile, AL",AL,BFM Airport,USA
+BMG,"Bloomington, IN",IN,BMG Airport,USA
+MTH,"Marathon, FL",FL,MTH Airport,USA
+PVR,"Puerto Vallarta, Mexico",,PVR Airport,USA
+ATW,"Appleton, WI",WI,ATW Airport,USA
+ERI,"Erie, PA",PA,ERI Airport,USA
+LEX,"Lexington, KY",KY,LEX Airport,USA
+TRI,"Bristol/Johnson City/Kingsport, TN",TN,TRI Airport,USA
+YLW,"Kelowna, Canada",BC,YLW Airport,USA
+FAR,"Fargo, ND",ND,FAR Airport,USA
+TLC,"Toluca, Mexico",,TLC Airport,USA
+YHU,"Montreal, Canada",QC,YHU Airport,USA
+YNG,"Youngstown/Warren, OH",OH,YNG Airport,USA
+YPS,"Port Hawkesbury, Canada",NS,YPS Airport,USA
+MDT,"Harrisburg, PA",PA,MDT Airport,USA
+ORL,"Orlando, FL",FL,ORL Airport,USA
+VRB,"Vero Beach, FL",FL,VRB Airport,USA
+DLH,"Duluth, MN",MN,DLH Airport,USA
+SCE,"State College, PA",PA,SCE Airport,USA
+YQA,"Muskoka, Canada",ON,YQA Airport,USA
+GCM,"Grand Cayman, Cayman Islands",,GCM Airport,USA
+GYY,"Gary, IN",IN,GYY Airport,USA
+YCM,"St. Catharines, Canada",ON,YCM Airport,USA
+YQY,"Sydney, Canada",NS,YQY Airport,USA
+AVP,"Scranton/Wilkes-Barre, PA",PA,AVP Airport,USA
+INT,"Winston-Salem, NC",NC,INT Airport,USA
+MLB,"Melbourne, FL",FL,MLB Airport,USA
+ROG,"Rogers, AR",AR,ROG Airport,USA
+PDK,"Atlanta, GA",GA,PDK Airport,USA
+SOP,"Pinehurst/Southern Pines, NC",NC,SOP Airport,USA
+YCD,"Nanaimo, Canada",BC,YCD Airport,USA
+GNV,"Gainesville, FL",FL,GNV Airport,USA
+ILG,"Wilmington, DE",DE,ILG Airport,USA
+YQK,"Kenora, Canada",ON,YQK Airport,USA
+SUS,"St. Louis, MO",MO,SUS Airport,USA
+LUK,"Cincinnati, OH",OH,LUK Airport,USA
+MQY,"Smyrna, TN",TN,MQY Airport,USA
+SAA,"Saratoga, WY",WY,SAA Airport,USA
+TN8,"Nashville, TN",TN,TN8 Airport,USA
+LZU,"Lawrenceville, GA",GA,LZU Airport,USA
+OCF,"Ocala, FL",FL,OCF Airport,USA
+SBP,"San Luis Obispo, CA",CA,SBP Airport,USA
+NYS,"New York, NY",NY,NYS Airport,USA
+DPA,"Chicago, IL",IL,DPA Airport,USA
+DRO,"Durango, CO",CO,DRO Airport,USA
+MFR,"Medford, OR",OR,MFR Airport,USA
+NM1,"Belen, NM",NM,NM1 Airport,USA
+TMB,"Miami, FL",FL,TMB Airport,USA
+NV6,"Pahrump, NV",NV,NV6 Airport,USA
+ASD,"Andros Town, The Bahamas",,ASD Airport,USA
+MHH,"Marsh Harbour, The Bahamas",,MHH Airport,USA
+MPB,"Miami, FL",FL,MPB Airport,USA
+SUA,"Stuart, FL",FL,SUA Airport,USA
+VWK,"Saratoga Springs, NY",NY,VWK Airport,USA
+CUN,"Cancun, Mexico",,CUN Airport,USA
+DWH,"Houston, TX",TX,DWH Airport,USA
+IKV,"Ankeny, IA",IA,IKV Airport,USA
+ITH,"Ithaca/Cortland, NY",NY,ITH Airport,USA
+LAF,"Lafayette, IN",IN,LAF Airport,USA
+MDH,"Carbondale, IL",IL,MDH Airport,USA
+PAH,"Paducah, KY",KY,PAH Airport,USA
+VIS,"Visalia, CA",CA,VIS Airport,USA
+VWS,"Wichita, KS",KS,VWS Airport,USA
+2NJ,"Williamstown, NJ",NJ,2NJ Airport,USA
+CNM,"Carlsbad, NM",NM,CNM Airport,USA
+LRU,"Las Cruces, NM",NM,LRU Airport,USA
+MRF,"Marfa, TX",TX,MRF Airport,USA
+PAO,"Palo Alto, CA",CA,PAO Airport,USA
+RBK,"Murrieta/Temecula, CA",CA,RBK Airport,USA
+SC6,"Charleston, SC",SC,SC6 Airport,USA
+OSU,"Columbus, OH",OH,OSU Airport,USA
+T4X,"Llano, TX",TX,T4X Airport,USA
+2GA,"Camilla, GA",GA,2GA Airport,USA
+AUO,"Auburn, AL",AL,AUO Airport,USA
+GDL,"Guadalajara, Mexico",,GDL Airport,USA
+MLI,"Moline, IL",IL,MLI Airport,USA
+PHF,"Newport News/Williamsburg, VA",VA,PHF Airport,USA
+ZLO,"Manzanillo, Mexico",,ZLO Airport,USA
+SME,"Somerset, KY",KY,SME Airport,USA
+MHE,"Mitchell, SD",SD,MHE Airport,USA
+PWM,"Portland, ME",ME,PWM Airport,USA
+DXR,"Danbury, CT",CT,DXR Airport,USA
+MPV,"Montpelier/Barre, VT",VT,MPV Airport,USA
+GEG,"Spokane, WA",WA,GEG Airport,USA
+IN2,"Indianapolis, IN",IN,IN2 Airport,USA
+VGT,"Las Vegas, NV",NV,VGT Airport,USA
+YPQ,"Peterborough, Canada",ON,YPQ Airport,USA
+WGO,"Winchester, VA",VA,WGO Airport,USA
+SIG,"San Juan, PR",PR,SIG Airport,USA
+SDM,"San Diego, CA",CA,SDM Airport,USA
+SVD,"St. Vincent, Saint Vincent and the Grenadines",,SVD Airport,USA
+EYW,"Key West, FL",FL,EYW Airport,USA
+SLK,"Saranac Lake/Lake Placid, NY",NY,SLK Airport,USA
+GCK,"Garden City, KS",KS,GCK Airport,USA
+PGL,"Pascagoula, MS",MS,PGL Airport,USA
+T8X,"Dallas, TX",TX,T8X Airport,USA
+AL6,"Fairhope, AL",AL,AL6 Airport,USA
+AST,"Astoria/Seaside, OR",OR,AST Airport,USA
+MCG,"McGrath, AK",AK,MCG Airport,USA
+YMX,"Montreal, Canada",QC,YMX Airport,USA
+MKG,"Muskegon, MI",MI,MKG Airport,USA
+5NJ,"Newark, NJ",NJ,5NJ Airport,USA
+HTO,"East Hampton, NY",NY,HTO Airport,USA
+A18,"Kantishna, AK",AK,A18 Airport,USA
+AA8,"Deadhorse, AK",AK,AA8 Airport,USA
+CEM,"Central, AK",AK,CEM Airport,USA
+FBK,"Fairbanks, AK",AK,FBK Airport,USA
+FLT,"Flat, AK",AK,FLT Airport,USA
+LNI,"Lonely, AK",AK,LNI Airport,USA
+WCR,"Chandalar, AK",AK,WCR Airport,USA
+DMN,"Deming, NM",NM,DMN Airport,USA
+ART,"Watertown, NY",NY,ART Airport,USA
+BIM,"Bimini, The Bahamas",,BIM Airport,USA
+DSI,"Destin, FL",FL,DSI Airport,USA
+ECP,"Panama City, FL",FL,ECP Airport,USA
+YGK,"Kingston, Canada",ON,YGK Airport,USA
+YQG,"Windsor, Canada",ON,YQG Airport,USA
+COD,"Cody, WY",WY,COD Airport,USA
+WKV,"Philadelphia, PA",PA,WKV Airport,USA
+CLL,"College Station/Bryan, TX",TX,CLL Airport,USA
+COS,"Colorado Springs, CO",CO,COS Airport,USA
+FTY,"Atlanta, GA",GA,FTY Airport,USA
+OGG,"Kahului, HI",HI,OGG Airport,USA
+SAD,"Safford, AZ",AZ,SAD Airport,USA
+VWD,"Hanford, CA",CA,VWD Airport,USA
+QRO,"Queretaro, Mexico",,QRO Airport,USA
+3NJ,"Camden, NJ",NJ,3NJ Airport,USA
+ACT,"Waco, TX",TX,ACT Airport,USA
+LNY,"Lanai, HI",HI,LNY Airport,USA
+MI2,"Holland, MI",MI,MI2 Airport,USA
+SXM,"Philipsburg, Sint Maarten",,SXM Airport,USA
+CCR,"Concord, CA",CA,CCR Airport,USA
+CFT,"Clifton, AZ",AZ,CFT Airport,USA
+CGZ,"Casa Grande, AZ",AZ,CGZ Airport,USA
+IGM,"Kingman, AZ",AZ,IGM Airport,USA
+SVC,"Silver City/Hurley, NM",NM,SVC Airport,USA
+DAB,"Daytona Beach, FL",FL,DAB Airport,USA
+YQX,"Gander, Canada",NL,YQX Airport,USA
+QQU,"Window Rock, AZ",AZ,QQU Airport,USA
+NY3,"Brockport, NY",NY,NY3 Airport,USA
+LMT,"Klamath Falls, OR",OR,LMT Airport,USA
+RBL,"Red Bluff, CA",CA,RBL Airport,USA
+BCE,"Bryce Canyon, UT",UT,BCE Airport,USA
+IFP,"Bullhead City, AZ",AZ,IFP Airport,USA
+TOL,"Toledo, OH",OH,TOL Airport,USA
+BGT,"Bagdad, AZ",AZ,BGT Airport,USA
+CEC,"Crescent City, CA",CA,CEC Airport,USA
+HII,"Lake Havasu City, AZ",AZ,HII Airport,USA
+QAJ,"Globe, AZ",AZ,QAJ Airport,USA
+TOA,"Torrance, CA",CA,TOA Airport,USA
+BVX,"Batesville, AR",AR,BVX Airport,USA
+N8Y,"Harriman, NY",NY,N8Y Airport,USA
+CXL,"Calexico, CA",CA,CXL Airport,USA
+UIN,"Quincy, IL",IL,UIN Airport,USA
+DAG,"Daggett, CA",CA,DAG Airport,USA
+RKV,"Reykjavik, Iceland",,RKV Airport,USA
+DQS,"Whitmore, AZ",AZ,DQS Airport,USA
+SMX,"Santa Maria, CA",CA,SMX Airport,USA
+4CL,"El Mirage, CA",CA,4CL Airport,USA
+5CA,"Palmdale, CA",CA,5CA Airport,USA
+AZ3,"Glendale, AZ",AZ,AZ3 Airport,USA
+IN6,"Jeffersonville, IN",IN,IN6 Airport,USA
+MHV,"Mojave, CA",CA,MHV Airport,USA
+OTH,"North Bend/Coos Bay, OR",OR,OTH Airport,USA
+OXC,"Waterbury, CT",CT,OXC Airport,USA
+2PA,"Philadelphia, PA",PA,2PA Airport,USA
+UXR,"Monument Valley, UT",UT,UXR Airport,USA
+LCQ,"Lake City, FL",FL,LCQ Airport,USA
+MUC,"Munich, Germany",,MUC Airport,USA
+RWI,"Rocky Mount, NC",NC,RWI Airport,USA
+CRG,"Jacksonville, FL",FL,CRG Airport,USA
+FPO,"Freeport, The Bahamas",,FPO Airport,USA
+RSD,"Rock Sound, The Bahamas",,RSD Airport,USA
+PPM,"Pompano Beach, FL",FL,PPM Airport,USA
+DUB,"Dublin, Ireland",,DUB Airport,USA
+CAT,"New Bight, The Bahamas",,CAT Airport,USA
+PBK,"Pack Creek, AK",AK,PBK Airport,USA
+FAK,"False Island, AK",AK,FAK Airport,USA
+GBH,"Galbraith Lake, AK",AK,GBH Airport,USA
+SHG,"Shungnak, AK",AK,SHG Airport,USA
+2WA,"Tacoma, WA",WA,2WA Airport,USA
+7AK,"Akun, AK",AK,7AK Airport,USA
+CDB,"Cold Bay, AK",AK,CDB Airport,USA
+DUT,"Unalaska, AK",AK,DUT Airport,USA
+IKO,"Nikolski, AK",AK,IKO Airport,USA
+KFP,"False Pass, AK",AK,KFP Airport,USA
+KVC,"King Cove, AK",AK,KVC Airport,USA
+NLG,"Nelson Lagoon, AK",AK,NLG Airport,USA
+PML,"Port Moller, AK",AK,PML Airport,USA
+SDP,"Sandpoint, AK",AK,SDP Airport,USA
+ELI,"Elim, AK",AK,ELI Airport,USA
+EWB,"New Bedford/Fall River, MA",MA,EWB Airport,USA
+ICT,"Wichita, KS",KS,ICT Airport,USA
+RKS,"Rock Springs, WY",WY,RKS Airport,USA
+SBM,"Sheboygan, WI",WI,SBM Airport,USA
+ABE,"Allentown/Bethlehem/Easton, PA",PA,ABE Airport,USA
+AGS,"Augusta, GA",GA,AGS Airport,USA
+BGD,"Borger, TX",TX,BGD Airport,USA
+CWF,"Lake Charles, LA",LA,CWF Airport,USA
+GHC,"Great Harbour Cay, The Bahamas",,GHC Airport,USA
+LIT,"Little Rock, AR",AR,LIT Airport,USA
+PSC,"Pasco/Kennewick/Richland, WA",WA,PSC Airport,USA
+SSI,"Brunswick, GA",GA,SSI Airport,USA
+STP,"Minneapolis/St. Paul, MN",MN,STP Airport,USA
+YYJ,"Victoria, Canada",BC,YYJ Airport,USA
+HUF,"Terre Haute, IN",IN,HUF Airport,USA
+SEF,"Sebring, FL",FL,SEF Airport,USA
+TSM,"Taos, NM",NM,TSM Airport,USA
+ILM,"Wilmington, NC",NC,ILM Airport,USA
+IPL,"El Centro, CA",CA,IPL Airport,USA
+YML,"Murray Bay, Canada",QC,YML Airport,USA
+ZRH,"Zurich, Switzerland",,ZRH Airport,USA
+FVG,"Wickenburg, AZ",AZ,FVG Airport,USA
+LBL,"Liberal, KS",KS,LBL Airport,USA
+SNS,"Salinas/Monterey, CA",CA,SNS Airport,USA
+UDD,"Bermuda Dunes, CA",CA,UDD Airport,USA
+BRS,"Bristol, United Kingdom",,BRS Airport,USA
+YXU,"London, Canada",ON,YXU Airport,USA
+SKW,"Skwentna, AK",AK,SKW Airport,USA
+MGM,"Montgomery, AL",AL,MGM Airport,USA
+XBR,"Brockville, Canada",ON,XBR Airport,USA
+ATS,"Artesia, NM",NM,ATS Airport,USA
+SLU,"St. Lucia, Saint Lucia",,SLU Airport,USA
+NAP,"Naples, Italy",,NAP Airport,USA
+LPL,"Liverpool, United Kingdom",,LPL Airport,USA
+CTS,"Sapporo, Japan",,CTS Airport,USA
+CPH,"Copenhagen, Denmark",,CPH Airport,USA
+STN,"London, United Kingdom",,STN Airport,USA
+SCQ,"Santiago de Compostela, Spain",,SCQ Airport,USA
+LEE,"Leesburg, FL",FL,LEE Airport,USA
+BLK,"Blackpool, United Kingdom",,BLK Airport,USA
+COR,"Cordoba, Argentina",,COR Airport,USA
+ZAZ,"Zaragoza, Spain",,ZAZ Airport,USA
+MOT,"Minot, ND",ND,MOT Airport,USA
+ORK,"Cork, Ireland",,ORK Airport,USA
+ORT,"Northway, AK",AK,ORT Airport,USA
+TBU,"Tonga Tapu, Tonga",,TBU Airport,USA
+VAV,"Vava'u, Tonga",,VAV Airport,USA
+PPG,"Pago Pago, TT",TT,PPG Airport,USA
+ELH,"North Eleuthera, The Bahamas",,ELH Airport,USA
+RBH,"Brooks Lodge, AK",AK,RBH Airport,USA
+AVN,"Avignon, France",,AVN Airport,USA
+GOA,"Genoa, Italy",,GOA Airport,USA
+PTP,"Pointe A Pitre, Guadeloupe",,PTP Airport,USA
+AHO,"Alghero/Sassari, Italy",,AHO Airport,USA
+BCN,"Barcelona, Spain",,BCN Airport,USA
+FMM,"Memmingen, Germany",,FMM Airport,USA
+HUY,"Humberside, United Kingdom",,HUY Airport,USA
+PSA,"Pisa, Italy",,PSA Airport,USA
+SFJ,"Sondre Stromfjord, Greenland",,SFJ Airport,USA
+CKX,"Chicken, AK",AK,CKX Airport,USA
+KLW,"Klawock, AK",AK,KLW Airport,USA
+NEW,"New Orleans, LA",LA,NEW Airport,USA
+GEO,"Georgetown, Guyana",,GEO Airport,USA
+GYE,"Guayaquil, Ecuador",,GYE Airport,USA
+TUN,"Tunis, Tunisia",,TUN Airport,USA
+ATH,"Athens, Greece",,ATH Airport,USA
+CRW,"Charleston/Dunbar, WV",WV,CRW Airport,USA
+YTZ,"Toronto, Canada",ON,YTZ Airport,USA
+DAY,"Dayton, OH",OH,DAY Airport,USA
+YHM,"Hamilton, Canada",ON,YHM Airport,USA
+FRD,"Friday Harbor, WA",WA,FRD Airport,USA
+ACV,"Arcata/Eureka, CA",CA,ACV Airport,USA
+ALW,"Walla Walla, WA",WA,ALW Airport,USA
+BDY,"Bandon, OR",OR,BDY Airport,USA
+BLI,"Bellingham, WA",WA,BLI Airport,USA
+EAT,"Wenatchee, WA",WA,EAT Airport,USA
+HIO,"Hillsboro, OR",OR,HIO Airport,USA
+KTN,"Ketchikan, AK",AK,KTN Airport,USA
+LWS,"Lewiston, ID",ID,LWS Airport,USA
+MYL,"McCall, ID",ID,MYL Airport,USA
+OLM,"Olympia, WA",WA,OLM Airport,USA
+QBC,"Bella Coola, Canada",BC,QBC Airport,USA
+SFF,"Spokane, WA",WA,SFF Airport,USA
+SQV,"Sequim, WA",WA,SQV Airport,USA
+SUO,"Sunriver, OR",OR,SUO Airport,USA
+VUO,"Vancouver, WA",WA,VUO Airport,USA
+VWE,"Chelan, WA",WA,VWE Airport,USA
+WVI,"Watsonville, CA",CA,WVI Airport,USA
+YKA,"Kamloops, Canada",BC,YKA Airport,USA
+YKM,"Yakima, WA",WA,YKM Airport,USA
+YPW,"Powell River, Canada",BC,YPW Airport,USA
+YQQ,"Comox, Canada",BC,YQQ Airport,USA
+YZT,"Port Hardy, Canada",BC,YZT Airport,USA
+DLS,"The Dalles, OR",OR,DLS Airport,USA
+FVO,"Aurora, OR",OR,FVO Airport,USA
+ODW,"Oak Harbor, WA",WA,ODW Airport,USA
+PUW,"Pullman, WA",WA,PUW Airport,USA
+AUN,"Auburn, CA",CA,AUN Airport,USA
+OTS,"Anacortes, WA",WA,OTS Airport,USA
+PDT,"Pendleton, OR",OR,PDT Airport,USA
+XXS,"Creswell, OR",OR,XXS Airport,USA
+YQH,"Watson Lake, Canada",YT,YQH Airport,USA
+OR1,"Grants Pass, OR",OR,OR1 Airport,USA
+TTD,"Troutdale, OR",OR,TTD Airport,USA
+WA5,"Winthrop, WA",WA,WA5 Airport,USA
+05A,"Little Squaw, AK",AK,05A Airport,USA
+CDL,"Candle, AK",AK,CDL Airport,USA
+ENN,"Nenana, AK",AK,ENN Airport,USA
+MOB,"Mobile, AL",AL,MOB Airport,USA
+BRU,"Brussels, Belgium",,BRU Airport,USA
+PNS,"Pensacola, FL",FL,PNS Airport,USA
+TCL,"Tuscaloosa, AL",AL,TCL Airport,USA
+GAM,"Gambell, AK",AK,GAM Airport,USA
+GLV,"Golovin, AK",AK,GLV Airport,USA
+OHC,"Northeast Cape, AK",AK,OHC Airport,USA
+SHH,"Shishmaref, AK",AK,SHH Airport,USA
+SVA,"Savoonga, AK",AK,SVA Airport,USA
+TLA,"Teller, AK",AK,TLA Airport,USA
+WAA,"Wales, AK",AK,WAA Airport,USA
+WMO,"White Mountain, AK",AK,WMO Airport,USA
+KTS,"Brevig Mission, AK",AK,KTS Airport,USA
+TNC,"Tin City, AK",AK,TNC Airport,USA
+KWF,"Waterfall, AK",AK,KWF Airport,USA
+PWT,"Bremerton, WA",WA,PWT Airport,USA
+AZO,"Kalamazoo, MI",MI,AZO Airport,USA
+JZI,"Portland, TN",TN,JZI Airport,USA
+RTB,"Roatan Island, Honduras",,RTB Airport,USA
+CGN,"Cologne, Germany",,CGN Airport,USA
+A76,"Red Fox Bay, AK",AK,A76 Airport,USA
+KIR,"Kerry County, Ireland",,KIR Airport,USA
+01A,"Afognak Lake, AK",AK,01A Airport,USA
+UGB,"Pilot Point, AK",AK,UGB Airport,USA
+SXF,"Berlin, Germany",,SXF Airport,USA
+NAN,"Nadi, Fiji",,NAN Airport,USA
+VCE,"Venice, Italy",,VCE Airport,USA
+OCJ,"Ocho Rios, Jamaica",,OCJ Airport,USA
+GVA,"Geneva, Switzerland",,GVA Airport,USA
+YMM,"Fort McMurray, Canada",AB,YMM Airport,USA
+EXT,"Exeter, United Kingdom",,EXT Airport,USA
+GLA,"Glasgow, United Kingdom",,GLA Airport,USA
+BUD,"Budapest, Hungary",,BUD Airport,USA
+BTL,"Battle Creek, MI",MI,BTL Airport,USA
+MDE,"Medellin, Colombia",,MDE Airport,USA
+ZQN,"Queenstown, New Zealand",,ZQN Airport,USA
+TEK,"Tatitlek, AK",AK,TEK Airport,USA
+NCN,"Chenega, AK",AK,NCN Airport,USA
+RKH,"Rock Hill, SC",SC,RKH Airport,USA
+MHM,"Minchumina, AK",AK,MHM Airport,USA
+PRG,"Prague, Czech Republic",,PRG Airport,USA
+KCG,"Chignik Bay, AK",AK,KCG Airport,USA
+KCL,"Chignik Lagoon, AK",AK,KCL Airport,USA
+KPV,"Perryville, AK",AK,KPV Airport,USA
+A52,"Silver Salmon Creek, AK",AK,A52 Airport,USA
+HHH,"Hilton Head, SC",SC,HHH Airport,USA
+PIH,"Pocatello, ID",ID,PIH Airport,USA
+SPI,"Springfield, IL",IL,SPI Airport,USA
+TX6,"Horseshoe Bay, TX",TX,TX6 Airport,USA
+CHO,"Charlottesville, VA",VA,CHO Airport,USA
+VIE,"Vienna, Austria",,VIE Airport,USA
+SJO,"San Jose, Costa Rica",,SJO Airport,USA
+OSL,"Oslo, Norway",,OSL Airport,USA
+SOF,"Sofia, Bulgaria",,SOF Airport,USA
+GND,"Grenada, Grenada",,GND Airport,USA
+BFL,"Bakersfield, CA",CA,BFL Airport,USA
+SHD,"Staunton, VA",VA,SHD Airport,USA
+BLQ,"Bologna, Italy",,BLQ Airport,USA
+BER,"Berlin, Germany",,BER Airport,USA
+BIO,"Bilbao, Spain",,BIO Airport,USA
+WI7,"Baraboo, WI",WI,WI7 Airport,USA
+FLR,"Florence, Italy",,FLR Airport,USA
+MRK,"Marco Island, FL",FL,MRK Airport,USA
+TLL,"Tallinn, Estonia",,TLL Airport,USA
+GUC,"Gunnison, CO",CO,GUC Airport,USA
+1B1,"Hudson, NY",NY,1B1 Airport,USA
+IST,"Istanbul, Turkey",,IST Airport,USA
+FNA,"Freetown, Sierra Leone",,FNA Airport,USA
+LIR,"Liberia, Costa Rica",,LIR Airport,USA
+CUR,"Willemstad, Curacao",,CUR Airport,USA
+BRI,"Bari, Italy",,BRI Airport,USA
+CH1,"Payerne, Switzerland",,CH1 Airport,USA
+CTA,"Catania, Italy",,CTA Airport,USA
+IBZ,"Ibiza, Spain",,IBZ Airport,USA
+BZZ,"Brize Norton, United Kingdom",,BZZ Airport,USA
+SDR,"Santander, Spain",,SDR Airport,USA
+RBA,"Rabat, Morocco",,RBA Airport,USA
+XRY,"Jerez de la Frontera, Spain",,XRY Airport,USA
+INN,"Innsbruck, Austria",,INN Airport,USA
+CAK,"Akron, OH",OH,CAK Airport,USA
+ZAG,"Zagreb, Croatia",,ZAG Airport,USA
+SCL,"Santiago, Chile",,SCL Airport,USA
+BRO,"Brownsville, TX",TX,BRO Airport,USA
+TER,"Lajes, Portugal",,TER Airport,USA
+2AK,"Deerpark, AK",AK,2AK Airport,USA
+BAF,"Westfield, MA",MA,BAF Airport,USA
+BGM,"Binghamton, NY",NY,BGM Airport,USA
+CIC,"Chico, CA",CA,CIC Airport,USA
+EGV,"Eagle River, WI",WI,EGV Airport,USA
+GYR,"Goodyear, AZ",AZ,GYR Airport,USA
+LAN,"Lansing, MI",MI,LAN Airport,USA
+LNS,"Lancaster, PA",PA,LNS Airport,USA
+MAE,"Madera, CA",CA,MAE Airport,USA
+MDN,"Madison, IN",IN,MDN Airport,USA
+MLU,"Monroe, LA",LA,MLU Airport,USA
+RAL,"Riverside, CA",CA,RAL Airport,USA
+SHV,"Shreveport, LA",LA,SHV Airport,USA
+TDZ,"Toledo, OH",OH,TDZ Airport,USA
+UES,"Waukesha, WI",WI,UES Airport,USA
+HLM,"Holland, MI",MI,HLM Airport,USA
+HND,"Tokyo, Japan",,HND Airport,USA
+CRS,"Corsicana, TX",TX,CRS Airport,USA
+SGH,"Springfield, OH",OH,SGH Airport,USA
+RHI,"Rhinelander, WI",WI,RHI Airport,USA
+AMA,"Amarillo, TX",TX,AMA Airport,USA
+FMY,"Fort Myers, FL",FL,FMY Airport,USA
+QQT,"Peachtree City, GA",GA,QQT Airport,USA
+SIY,"Montague, CA",CA,SIY Airport,USA
+GRO,"Gerona, Spain",,GRO Airport,USA
+BKL,"Cleveland, OH",OH,BKL Airport,USA
+ENW,"Kenosha, WI",WI,ENW Airport,USA
+GJT,"Grand Junction, CO",CO,GJT Airport,USA
+JZT,"Arlington, TX",TX,JZT Airport,USA
+ANU,"St. Johns, Antigua and Barbuda",,ANU Airport,USA
+BOW,"Bartow, FL",FL,BOW Airport,USA
+CGR,"Campo Grande, Brazil",,CGR Airport,USA
+FHU,"Fort Huachuca, AZ",AZ,FHU Airport,USA
+LCH,"Lake Charles, LA",LA,LCH Airport,USA
+SFB,"Sanford, FL",FL,SFB Airport,USA
+HRL,"Harlingen/San Benito, TX",TX,HRL Airport,USA
+PIA,"Peoria, IL",IL,PIA Airport,USA
+RMN,"Stafford, VA",VA,RMN Airport,USA
+MAJ,"Majuro, Marshall Islands",,MAJ Airport,USA
+PGO,"Pagosa Springs, CO",CO,PGO Airport,USA
+BSL,"Mulhouse, France",,BSL Airport,USA
+BWE,"Braunschweig, Germany",,BWE Airport,USA
+DBB,"Dabaa City, Egypt",,DBB Airport,USA
+DIJ,"Dijon, France",,DIJ Airport,USA
+DXB,"Dubai, United Arab Emirates",,DXB Airport,USA
+FAO,"Faro, Portugal",,FAO Airport,USA
+FDH,"Friedrichshafen, Germany",,FDH Airport,USA
+FRA,"Frankfurt, Germany",,FRA Airport,USA
+GMP,"Seoul, South Korea",,GMP Airport,USA
+HEL,"Helsinki, Finland",,HEL Airport,USA
+ICN,"Seoul, South Korea",,ICN Airport,USA
+INL,"International Falls, MN",MN,INL Airport,USA
+LAP,"La Paz, Mexico",,LAP Airport,USA
+LYS,"Lyon, France",,LYS Airport,USA
+MEL,"Melbourne, Australia",,MEL Airport,USA
+MHT,"Manchester, NH",NH,MHT Airport,USA
+MLA,"Malta, Malta",,MLA Airport,USA
+MRS,"Marseille, France",,MRS Airport,USA
+MST,"Maastricht, Netherlands",,MST Airport,USA
+MUH,"Mersa Matruh, Egypt",,MUH Airport,USA
+MWL,"Mineral Wells, TX",TX,MWL Airport,USA
+MZT,"Mazatlan, Mexico",,MZT Airport,USA
+NUE,"Nuremberg, Germany",,NUE Airport,USA
+PEK,"Beijing, China",,PEK Airport,USA
+POP,"Puerto Plata, Dominican Republic",,POP Airport,USA
+RAK,"Marrakech, Morocco",,RAK Airport,USA
+RIX,"Riga, Latvia",,RIX Airport,USA
+STR,"Stuttgart, Germany",,STR Airport,USA
+SYD,"Sydney, Australia",,SYD Airport,USA
+SZG,"Salzburg, Austria",,SZG Airport,USA
+TFS,"Tenerife, Spain",,TFS Airport,USA
+TLN,"Toulon/Hyeres, France",,TLN Airport,USA
+TSA,"Taipei, Taiwan",,TSA Airport,USA
+AKL,"Auckland, New Zealand",,AKL Airport,USA
+ALG,"Algiers, Algeria",,ALG Airport,USA
+ASK,"Yamoussoukro, Cote d'Ivoire",,ASK Airport,USA
+BGI,"Barbados/Bridgetown, Barbados",,BGI Airport,USA
+BGO,"Bergen, Norway",,BGO Airport,USA
+BHX,"Birmingham, United Kingdom",,BHX Airport,USA
+BOG,"Bogota, Colombia",,BOG Airport,USA
+BSB,"Brasilia, Brazil",,BSB Airport,USA
+CAI,"Cairo, Egypt",,CAI Airport,USA
+CHQ,"Chania, Greece",,CHQ Airport,USA
+CMF,"Chambery, France",,CMF Airport,USA
+DUS,"Dusseldorf, Germany",,DUS Airport,USA
+EIN,"Eindhoven, Netherlands",,EIN Airport,USA
+EMA,"Derby, United Kingdom",,EMA Airport,USA
+EZE,"Ezeiza, Argentina",,EZE Airport,USA
+FCO,"Rome, Italy",,FCO Airport,USA
+GCI,"Guernsey, United Kingdom",,GCI Airport,USA
+GIB,"Gibraltar, Gibraltar",,GIB Airport,USA
+GNB,"Grenoble, France",,GNB Airport,USA
+GRQ,"Groningen, Netherlands",,GRQ Airport,USA
+HAJ,"Hannover, Germany",,HAJ Airport,USA
+HAM,"Hamburg, Germany",,HAM Airport,USA
+JRO,"Kilimanjaro, Tanzania",,JRO Airport,USA
+JTR,"Santorini, Greece",,JTR Airport,USA
+KIX,"Osaka, Japan",,KIX Airport,USA
+KUL,"Kuala Lumpur, Malaysia",,KUL Airport,USA
+LBB,"Lubbock, TX",TX,LBB Airport,USA
+LBE,"Latrobe, PA",PA,LBE Airport,USA
+LCG,"A Coruna, Spain",,LCG Airport,USA
+LIM,"Lima, Peru",,LIM Airport,USA
+LRM,"La Romana, Dominican Republic",,LRM Airport,USA
+LYR,"Longyearbyen, Norway",,LYR Airport,USA
+MAO,"Manaus, Brazil",,MAO Airport,USA
+NGO,"Nagoya, Japan",,NGO Airport,USA
+OBF,"Oberpfaffenhofen, Germany",,OBF Airport,USA
+OPO,"Porto, Portugal",,OPO Airport,USA
+OTP,"Bucharest, Romania",,OTP Airport,USA
+PPT,"Papeete, French Polynesia",,PPT Airport,USA
+PVG,"Shanghai, China",,PVG Airport,USA
+QSR,"Salerno, Italy",,QSR Airport,USA
+RTM,"Rotterdam, Netherlands",,RTM Airport,USA
+SHA,"Shanghai, China",,SHA Airport,USA
+SID,"Sal Island, Cape Verde",,SID Airport,USA
+SKB,"St. Kitts, Saint Kitts and Nevis",,SKB Airport,USA
+SSA,"Salvador, Brazil",,SSA Airport,USA
+STC,"St. Cloud, MN",MN,STC Airport,USA
+SVQ,"Seville, Spain",,SVQ Airport,USA
+VLC,"Valencia, Spain",,VLC Airport,USA
+WAW,"Warsaw, Poland",,WAW Airport,USA
+XSP,"Seletar, Singapore",,XSP Airport,USA
+AZI,"Abu Dhabi, United Arab Emirates",,AZI Airport,USA
+BHD,"Belfast, United Kingdom",,BHD Airport,USA
+BZE,"Belize City, Belize",,BZE Airport,USA
+CRK,"Luzon Island, Philippines",,CRK Airport,USA
+DWC,"Jebel Ali, United Arab Emirates",,DWC Airport,USA
+EVE,"Evenes, Norway",,EVE Airport,USA
+ITO,"Hilo, HI",HI,ITO Airport,USA
+KWI,"Kuwait, Kuwait",,KWI Airport,USA
+LCA,"Larnaca, Cyprus",,LCA Airport,USA
+LRD,"Laredo, TX",TX,LRD Airport,USA
+OLB,"Olbia, Italy",,OLB Airport,USA
+POA,"Porto Alegre, Brazil",,POA Airport,USA
+PVK,"Preveza, Greece",,PVK Airport,USA
+SNR,"St. Nazaire, France",,SNR Airport,USA
+TIV,"Tivat, Montenegro",,TIV Airport,USA
+UIO,"Quito, Ecuador",,UIO Airport,USA
+VXO,"Vaxjo, Sweden",,VXO Airport,USA
+ABZ,"Aberdeen, United Kingdom",,ABZ Airport,USA
+BGY,"Bergamo, Italy",,BGY Airport,USA
+BOH,"Bournemouth, United Kingdom",,BOH Airport,USA
+CAG,"Cagliari, Italy",,CAG Airport,USA
+EBL,"Erbil, Iraq",,EBL Airport,USA
+JED,"Jeddah, Saudi Arabia",,JED Airport,USA
+JER,"Jersey, United Kingdom",,JER Airport,USA
+KLX,"Kalamata, Greece",,KLX Airport,USA
+LIS,"Lisbon, Portugal",,LIS Airport,USA
+LOS,"Lagos, Nigeria",,LOS Airport,USA
+MAN,"Manchester, United Kingdom",,MAN Airport,USA
+MNL,"Manila, Philippines",,MNL Airport,USA
+MXL,"Mexicali, Mexico",,MXL Airport,USA
+NQY,"Newquay, United Kingdom",,NQY Airport,USA
+NSI,"Yaounde, Cameroon",,NSI Airport,USA
+NTR,"Monterrey, Mexico",,NTR Airport,USA
+OZZ,"Quarzazate, Morocco",,OZZ Airport,USA
+PIK,"Glasgow/Prestwick, United Kingdom",,PIK Airport,USA
+RUH,"Riyadh, Saudi Arabia",,RUH Airport,USA
+SHJ,"Sharjah, United Arab Emirates",,SHJ Airport,USA
+SPU,"Split, Croatia",,SPU Airport,USA
+SXB,"Strasbourg, France",,SXB Airport,USA
+TRN,"Turin, Italy",,TRN Airport,USA
+YYB,"North Bay, Canada",ON,YYB Airport,USA
+AEY,"Akureyri, Iceland",,AEY Airport,USA
+AUH,"Abu Dhabi, United Arab Emirates",,AUH Airport,USA
+CJC,"Calama, Chile",,CJC Airport,USA
+CXO,"Conroe, TX",TX,CXO Airport,USA
+DBV,"Dubrovnik, Croatia",,DBV Airport,USA
+GIG,"Rio de Janeiro, Brazil",,GIG Airport,USA
+GOT,"Gothenburg, Sweden",,GOT Airport,USA
+INV,"Inverness, United Kingdom",,INV Airport,USA
+KRK,"Krakow, Poland",,KRK Airport,USA
+LBA,"Leeds/Bradford, United Kingdom",,LBA Airport,USA
+MAH,"Mahon, Spain",,MAH Airport,USA
+PEG,"Perugia, Italy",,PEG Airport,USA
+RZE,"Rzeszow, Poland",,RZE Airport,USA
+SIN,"Singapore, Singapore",,SIN Airport,USA
+JMK,"Mikonos Island, Greece",,JMK Airport,USA
+APW,"Apia, Samoa",,APW Airport,USA
+BJV,"Bodrum, Turkey",,BJV Airport,USA
+DSS,"Dakar Thies, Senegal",,DSS Airport,USA
+IGR,"Iguazu, Argentina",,IGR Airport,USA
+OKA,"Okinawa, Japan",,OKA Airport,USA
+PBM,"Zanderij, Suriname",,PBM Airport,USA
+PGV,"Greenville, NC",NC,PGV Airport,USA
+PKX,"Beijing, China",,PKX Airport,USA
+PMO,"Palermo, Italy",,PMO Airport,USA
+RDD,"Redding, CA",CA,RDD Airport,USA
+SGN,"Ho Chi Minh City, Vietnam",,SGN Airport,USA
+TAO,"Qingdao, China",,TAO Airport,USA
+UVF,"St. Lucia, Saint Lucia",,UVF Airport,USA
+DAV,"David, Panama",,DAV Airport,USA
+FSC,"Figari, France",,FSC Airport,USA
+LPA,"Las Palmas, Spain",,LPA Airport,USA
+PDP,"Maldonado, Uruguay",,PDP Airport,USA
+TPS,"Trapani/Marsala, Italy",,TPS Airport,USA
+ADW,"Camp Springs, MD",MD,ADW Airport,USA
+FLN,"Florianopolis, Brazil",,FLN Airport,USA
+SVG,"Stavanger, Norway",,SVG Airport,USA
+TIJ,"Tijuana, Mexico",,TIJ Airport,USA
+USM,"Koh Samui, Thailand",,USM Airport,USA
+VDI,"Vidalia, GA",GA,VDI Airport,USA
+ORH,"Worcester, MA",MA,ORH Airport,USA
+EFL,"Kefallinia Island, Greece",,EFL Airport,USA
+PUQ,"Punta Arenas, Chile",,PUQ Airport,USA
+ABV,"Abuja, Nigeria",,ABV Airport,USA
+AYT,"Antalya, Turkey",,AYT Airport,USA
+LHR,"London, United Kingdom",,LHR Airport,USA
+CKB,"Clarksburg/Fairmont, WV",WV,CKB Airport,USA
+MAS,"Manus Island, Papua New Guinea",,MAS Airport,USA
+BEG,"Belgrade, Serbia",,BEG Airport,USA
+PUF,"Pau, France",,PUF Airport,USA
+CLU,"Columbus, IN",IN,CLU Airport,USA
+FMN,"Farmington, NM",NM,FMN Airport,USA
+FSD,"Sioux Falls, SD",SD,FSD Airport,USA
+PIR,"Pierre, SD",SD,PIR Airport,USA
+RQE,"Prosser, WA",WA,RQE Airport,USA
+XXP,"Lakeport, CA",CA,XXP Airport,USA
+ORV,"Noorvik, AK",AK,ORV Airport,USA
+ADK,"Adak Island, AK",AK,ADK Airport,USA
+AKB,"Atka, AK",AK,AKB Airport,USA
+PAQ,"Palmer, AK",AK,PAQ Airport,USA
+WWA,"Wasilla, AK",AK,WWA Airport,USA
+SNP,"St. Paul, AK",AK,SNP Airport,USA
+A01,"Fairbanks/Ft. Wainwright, AK",AK,A01 Airport,USA
+PUB,"Pueblo, CO",CO,PUB Airport,USA
+VDZ,"Valdez, AK",AK,VDZ Airport,USA
+TSG,"Tanacross, AK",AK,TSG Airport,USA
+2NY,"Port Washington, NY",NY,2NY Airport,USA
+BS3,"Baker Bay, The Bahamas",,BS3 Airport,USA
+CCZ,"Chub Cay, The Bahamas",,CCZ Airport,USA
+CDW,"Caldwell, NJ",NJ,CDW Airport,USA
+CXY,"Cat Cay, The Bahamas",,CXY Airport,USA
+FPR,"Fort Pierce, FL",FL,FPR Airport,USA
+HBI,"Harbour Island, The Bahamas",,HBI Airport,USA
+LAL,"Lakeland, FL",FL,LAL Airport,USA
+LNA,"West Palm Beach, FL",FL,LNA Airport,USA
+NMC,"Norman's Cay, The Bahamas",,NMC Airport,USA
+NSB,"Bimini, The Bahamas",,NSB Airport,USA
+OBE,"Okeechobee, FL",FL,OBE Airport,USA
+OCA,"Key Largo, FL",FL,OCA Airport,USA
+PGD,"Punta Gorda, FL",FL,PGD Airport,USA
+SAQ,"San Andros, The Bahamas",,SAQ Airport,USA
+TCB,"Treasure Cay, The Bahamas",,TCB Airport,USA
+TZN,"South Andos, The Bahamas",,TZN Airport,USA
+WKR,"Walker's Cay, The Bahamas",,WKR Airport,USA
+WSH,"Shirley, NY",NY,WSH Airport,USA
+WTD,"West End, The Bahamas",,WTD Airport,USA
+HIE,"Whitefield, NH",NH,HIE Airport,USA
+GHB,"Governors Harbour, The Bahamas",,GHB Airport,USA
+PHK,"Pahokee, FL",FL,PHK Airport,USA
+UST,"St. Augustine, FL",FL,UST Airport,USA
+NY9,"Hornell, NY",NY,NY9 Airport,USA
+TBI,"New Bight, The Bahamas",,TBI Airport,USA
+CPR,"Casper, WY",WY,CPR Airport,USA
+KGS,"Kos, Greece",,KGS Airport,USA
+TRS,"Trieste, Italy",,TRS Airport,USA
+MN5,"Red Wing, MN",MN,MN5 Airport,USA
+MFD,"Mansfield, OH",OH,MFD Airport,USA
+AGC,"Pittsburgh, PA",PA,AGC Airport,USA
+AUA,"Aruba, Aruba",,AUA Airport,USA
+DBQ,"Dubuque, IA",IA,DBQ Airport,USA
+MCN,"Macon, GA",GA,MCN Airport,USA
+OGS,"Ogdensburg, NY",NY,OGS Airport,USA
+TLH,"Tallahassee, FL",FL,TLH Airport,USA
+IRK,"Kirksville, MO",MO,IRK Airport,USA
+ISM,"Orlando, FL",FL,ISM Airport,USA
+LEB,"Lebanon-Hanover, NH",NH,LEB Airport,USA
+ID1,"Driggs, ID",ID,ID1 Airport,USA
+PCD,"Prairie Du Chien, WI",WI,PCD Airport,USA
+LA2,"Hammond, LA",LA,LA2 Airport,USA
+RAC,"Racine, WI",WI,RAC Airport,USA
+BMA,"Stockholm, Sweden",,BMA Airport,USA
+HAN,"Hanoi, Vietnam",,HAN Airport,USA
+SMV,"St. Moritz, Switzerland",,SMV Airport,USA
+BRN,"Berne, Switzerland",,BRN Airport,USA
+LBC,"Luebeck, Germany",,LBC Airport,USA
+BLL,"Billund, Denmark",,BLL Airport,USA
+GDN,"Gdansk, Poland",,GDN Airport,USA
+PDL,"Ponta Delgada, Portugal",,PDL Airport,USA
+AZA,"Phoenix, AZ",AZ,AZA Airport,USA
+KNB,"Kanab, UT",UT,KNB Airport,USA
+CQM,"Ciudad Real, Spain",,CQM Airport,USA
+1NY,"Penn Yan, NY",NY,1NY Airport,USA
+3FL,"Wauchula, FL",FL,3FL Airport,USA
+6B0,"Middlebury, VT",VT,6B0 Airport,USA
+ANP,"Annapolis, MD",MD,ANP Airport,USA
+ASH,"Nashua, NH",NH,ASH Airport,USA
+B19,"Biddeford, ME",ME,B19 Airport,USA
+BFT,"Beaufort, SC",SC,BFT Airport,USA
+BHB,"Bar Harbor, ME",ME,BHB Airport,USA
+BQU,"Bequia, Saint Vincent and the Grenadines",,BQU Airport,USA
+BVY,"Beverly, MA",MA,BVY Airport,USA
+CEF,"Chicopee Falls, MA",MA,CEF Airport,USA
+CON,"Concord, NH",NH,CON Airport,USA
+CT1,"Plainville, CT",CT,CT1 Airport,USA
+CT7,"Chester, CT",CT,CT7 Airport,USA
+DE2,"Middletown, DE",DE,DE2 Airport,USA
+DE3,"Dover-Cheswold, DE",DE,DE3 Airport,USA
+DYL,"Doylestown, PA",PA,DYL Airport,USA
+ELM,"Elmira/Corning, NY",NY,ELM Airport,USA
+FDK,"Frederick, MD",MD,FDK Airport,USA
+FL7,"Placida, FL",FL,FL7 Airport,USA
+FPY,"Perry, FL",FL,FPY Airport,USA
+GAI,"Gaithersburg, MD",MD,GAI Airport,USA
+GBR,"Great Barrington, MA",MA,GBR Airport,USA
+GED,"Georgetown, DE",DE,GED Airport,USA
+GFL,"Glens Falls, NY",NY,GFL Airport,USA
+HFD,"Hartford, CT",CT,HFD Airport,USA
+HZL,"Hazleton, PA",PA,HZL Airport,USA
+JZU,"Bennington, VT",VT,JZU Airport,USA
+LLY,"Mount Holly, NJ",NJ,LLY Airport,USA
+LWM,"Lawrence, MA",MA,LWM Airport,USA
+LYH,"Lynchburg, VA",VA,LYH Airport,USA
+MA2,"Montague, MA",MA,MA2 Airport,USA
+MA4,"Marshfield, MA",MA,MA4 Airport,USA
+MD1,"Michellville, MD",MD,MD1 Airport,USA
+ME4,"Oxford, ME",ME,ME4 Airport,USA
+MGR,"Moultrie/Thomasville, GA",GA,MGR Airport,USA
+MJX,"Toms River, NJ",NJ,MJX Airport,USA
+MNZ,"Manassas, VA",VA,MNZ Airport,USA
+MT3,"Ennis, MT",MT,MT3 Airport,USA
+MTN,"Baltimore, MD",MD,MTN Airport,USA
+MVC,"Monroeville, AL",AL,MVC Airport,USA
+NAD,"North Adams, MA",MA,NAD Airport,USA
+NJ2,"West Creek, NJ",NJ,NJ2 Airport,USA
+NY5,"Millbrook, NY",NY,NY5 Airport,USA
+NY7,"Skaneateles, NY",NY,NY7 Airport,USA
+OCE,"Ocean City, MD",MD,OCE Airport,USA
+PNN,"Princeton, ME",ME,PNN Airport,USA
+POU,"Poughkeepsie, NY",NY,POU Airport,USA
+PSF,"Pittsfield, MA",MA,PSF Airport,USA
+PTW,"Pottstown, PA",PA,PTW Airport,USA
+PYM,"Plymouth, MA",MA,PYM Airport,USA
+RKD,"Rockland, ME",ME,RKD Airport,USA
+RUT,"Rutland, VT",VT,RUT Airport,USA
+SBY,"Salisbury, MD",MD,SBY Airport,USA
+SCH,"Schenectady, NY",NY,SCH Airport,USA
+SEG,"Selinsgrove, PA",PA,SEG Airport,USA
+SFM,"Sanford, ME",ME,SFM Airport,USA
+SPG,"Tampa, FL",FL,SPG Airport,USA
+SVH,"Statesville, NC",NC,SVH Airport,USA
+UBF,"Chatham, MA",MA,UBF Airport,USA
+VA5,"Richmond, VA",VA,VA5 Airport,USA
+VNC,"Venice, FL",FL,VNC Airport,USA
+ZXU,"North Kingstown, RI",RI,ZXU Airport,USA
+2FL,"West Palm Beach, FL",FL,2FL Airport,USA
+3VA,"West Point, VA",VA,3VA Airport,USA
+AOO,"Altoona, PA",PA,AOO Airport,USA
+AZS,"Samana, Dominican Republic",,AZS Airport,USA
+CIW,"Canouan, Saint Vincent and the Grenadines",,CIW Airport,USA
+DKK,"Dunkirk, NY",NY,DKK Airport,USA
+DNL,"Augusta, GA",GA,DNL Airport,USA
+DOM,"Marigot, Dominica",,DOM Airport,USA
+FME,"Fort Meade, MD",MD,FME Airport,USA
+GTY,"Gettysburg, PA",PA,GTY Airport,USA
+HGR,"Hagerstown, MD",MD,HGR Airport,USA
+JHW,"Jamestown, NY",NY,JHW Airport,USA
+LEW,"Lewiston/Auburn, ME",ME,LEW Airport,USA
+LKP,"Lake Placid, NY",NY,LKP Airport,USA
+LWB,"Lewisburg, WV",WV,LWB Airport,USA
+MD3,"Churchville, MD",MD,MD3 Airport,USA
+MD6,"Elkton, MD",MD,MD6 Airport,USA
+ME3,"Belfast, ME",ME,ME3 Airport,USA
+MVL,"Morrisville, VT",VT,MVL Airport,USA
+N1Y,"Canandaigua, NY",NY,N1Y Airport,USA
+N2Y,"Seneca Falls, NY",NY,N2Y Airport,USA
+NHZ,"Brunswick, ME",ME,NHZ Airport,USA
+NY1,"Kingston, NY",NY,NY1 Airport,USA
+QMN,"Mansfield, MA",MA,QMN Airport,USA
+RME,"Rome, NY",NY,RME Airport,USA
+SBH,"Saint Barthelemy, Saint Barthelemy",,SBH Airport,USA
+SC7,"Allendale, SC",SC,SC7 Airport,USA
+TPF,"Tampa, FL",FL,TPF Airport,USA
+TVI,"Thomasville, GA",GA,TVI Airport,USA
+UXO,"Fitchburg, MA",MA,UXO Airport,USA
+VA4,"Leesburg, VA",VA,VA4 Airport,USA
+VA8,"Richmond, VA",VA,VA8 Airport,USA
+VGC,"Hamilton, NY",NY,VGC Airport,USA
+VSF,"Springfield, VT",VT,VSF Airport,USA
+WVL,"Augusta/Waterville, ME",ME,WVL Airport,USA
+YCL,"Charlo, Canada",NB,YCL Airport,USA
+YVB,"Bonaventure, Canada",QC,YVB Airport,USA
+YYG,"Charlottetown, Canada",PE,YYG Airport,USA
+ZBM,"Bromont, Canada",QC,ZBM Airport,USA
+6PA,"Chambersburg, PA",PA,6PA Airport,USA
+AUG,"Augusta/Waterville, ME",ME,AUG Airport,USA
+BFD,"Bradford, PA",PA,BFD Airport,USA
+BML,"Berlin, NH",NH,BML Airport,USA
+CTH,"Coatesville, PA",PA,CTH Airport,USA
+HAR,"Harrisburg, PA",PA,HAR Airport,USA
+IAG,"Niagara Falls, NY",NY,IAG Airport,USA
+JBQ,"Santo Domingo, Dominican Republic",,JBQ Airport,USA
+JGG,"Williamsburg, VA",VA,JGG Airport,USA
+JRV,"Ceiba, PR",PR,JRV Airport,USA
+LDJ,"Linden, NJ",NJ,LDJ Airport,USA
+MA3,"Taunton, MA",MA,MA3 Airport,USA
+MA5,"Northampton, MA",MA,MA5 Airport,USA
+ME2,"Islesboro, ME",ME,ME2 Airport,USA
+ME5,"Bethel, ME",ME,ME5 Airport,USA
+MMN,"Stow, MA",MA,MMN Airport,USA
+MSV,"Monticello, NY",NY,MSV Airport,USA
+NJ4,"Ocean City, NJ",NJ,NJ4 Airport,USA
+PA3,"Honesdale, PA",PA,PA3 Airport,USA
+SXY,"Sidney, NY",NY,SXY Airport,USA
+TXX,"Fulshear, TX",TX,TXX Airport,USA
+YCH,"Miramichi, Canada",NB,YCH Airport,USA
+1CT,"Somers, CT",CT,1CT Airport,USA
+1N7,"Blairstown, NJ",NJ,1N7 Airport,USA
+BQN,"Aguadilla, PR",PR,BQN Airport,USA
+EEN,"Keene, NH",NH,EEN Airport,USA
+EFK,"Newport, VT",VT,EFK Airport,USA
+JZQ,"Brooksville, FL",FL,JZQ Airport,USA
+MA1,"Edgartown, MA",MA,MA1 Airport,USA
+ME1,"Rangeley, ME",ME,ME1 Airport,USA
+MFV,"Melfa, VA",VA,MFV Airport,USA
+MGW,"Morgantown, WV",WV,MGW Airport,USA
+NH6,"Newport, NH",NH,NH6 Airport,USA
+ONH,"Oneonta, NY",NY,ONH Airport,USA
+PR1,"Cabo Rojo, PR",PR,PR1 Airport,USA
+ZBF,"Bathurst, Canada",NB,ZBF Airport,USA
+5PA,"Allentown, PA",PA,5PA Airport,USA
+CGF,"Cleveland, OH",OH,CGF Airport,USA
+DQN,"New Smyrna Beach, FL",FL,DQN Airport,USA
+FL4,"Bunnell, FL",FL,FL4 Airport,USA
+MD2,"Indian Head, MD",MD,MD2 Airport,USA
+USA,"Concord, NC",NC,USA Airport,USA
+ZSA,"San Salvador, The Bahamas",,ZSA Airport,USA
+BTP,"Butler, PA",PA,BTP Airport,USA
+GVQ,"Batavia, NY",NY,GVQ Airport,USA
+NY4,"Potsdam, NY",NY,NY4 Airport,USA
+VJI,"Abingdon, VA",VA,VJI Airport,USA
+OXD,"Oxford, OH",OH,OXD Airport,USA
+PSE,"Ponce, PR",PR,PSE Airport,USA
+TIX,"Titusville, FL",FL,TIX Airport,USA
+ABI,"Abilene, TX",TX,ABI Airport,USA
+ABR,"Aberdeen, SD",SD,ABR Airport,USA
+APN,"Alpena, MI",MI,APN Airport,USA
+BFF,"Scottsbluff, NE",NE,BFF Airport,USA
+BGS,"Big Spring, TX",TX,BGS Airport,USA
+BIH,"Bishop, CA",CA,BIH Airport,USA
+BIS,"Bismarck/Mandan, ND",ND,BIS Airport,USA
+BWD,"Brownwood, TX",TX,BWD Airport,USA
+CAR,"Caribou, ME",ME,CAR Airport,USA
+CDC,"Cedar City, UT",UT,CDC Airport,USA
+CIU,"Sault Ste. Marie, MI",MI,CIU Airport,USA
+CMX,"Hancock/Houghton, MI",MI,CMX Airport,USA
+CSG,"Columbus, GA",GA,CSG Airport,USA
+CVO,"Corvallis, OR",OR,CVO Airport,USA
+DDC,"Dodge City, KS",KS,DDC Airport,USA
+DIK,"Dickinson, ND",ND,DIK Airport,USA
+EKA,"Eureka, CA",CA,EKA Airport,USA
+ESC,"Escanaba, MI",MI,ESC Airport,USA
+FNT,"Flint, MI",MI,FNT Airport,USA
+GLH,"Greenville, MS",MS,GLH Airport,USA
+GLR,"Gaylord, MI",MI,GLR Airport,USA
+GRI,"Grand Island, NE",NE,GRI Airport,USA
+HUT,"Hutchinson, KS",KS,HUT Airport,USA
+IDI,"Indiana, PA",PA,IDI Airport,USA
+IMT,"Iron Mountain/Kingsfd, MI",MI,IMT Airport,USA
+IPT,"Williamsport, PA",PA,IPT Airport,USA
+JHM,"Kapalua, HI",HI,JHM Airport,USA
+JST,"Johnstown, PA",PA,JST Airport,USA
+MCK,"McCook, NE",NE,MCK Airport,USA
+MEO,"Manteo, NC",NC,MEO Airport,USA
+MKK,"Hoolehua, HI",HI,MKK Airport,USA
+MQT,"Marquette, MI",MI,MQT Airport,USA
+PLN,"Pellston, MI",MI,PLN Airport,USA
+PQI,"Presque Isle/Houlton, ME",ME,PQI Airport,USA
+QQY,"San Marcos, TX",TX,QQY Airport,USA
+RBG,"Roseburg, OR",OR,RBG Airport,USA
+SDY,"Sidney, MT",MT,SDY Airport,USA
+SJT,"San Angelo, TX",TX,SJT Airport,USA
+SQA,"Santa Ynez, CA",CA,SQA Airport,USA
+SWW,"Sweetwater, TX",TX,SWW Airport,USA
+XXN,"Willits, CA",CA,XXN Airport,USA
+XXY,"Fortuna, CA",CA,XXY Airport,USA
+ZXC,"Gasquet, CA",CA,ZXC Airport,USA
+MKL,"Jackson, TN",TN,MKL Airport,USA
+CIL,"Council, AK",AK,CIL Airport,USA
+GMT,"Granite Mountain, AK",AK,GMT Airport,USA
+LUR,"Cape Lisburne, AK",AK,LUR Airport,USA
+ZXF,"Illinois Creek, AK",AK,ZXF Airport,USA
+HNM,"Hana, HI",HI,HNM Airport,USA
+KPC,"Port Clarence, AK",AK,KPC Airport,USA
+HOT,"Hot Springs, AR",AR,HOT Airport,USA
+SQL,"San Carlos, CA",CA,SQL Airport,USA
+JRF,"Kapolei, HI",HI,JRF Airport,USA
+A06,"Kougarok, AK",AK,A06 Airport,USA
+LSR,"Lost River, AK",AK,LSR Airport,USA
+MUE,"Kamuela, HI",HI,MUE Airport,USA
+LUP,"Kalaupapa, HI",HI,LUP Airport,USA
+KQA,"Akutan, AK",AK,KQA Airport,USA
+BPT,"Beaumont/Port Arthur, TX",TX,BPT Airport,USA
+BTM,"Butte, MT",MT,BTM Airport,USA
+CGI,"Cape Girardeau, MO",MO,CGI Airport,USA
+CRP,"Corpus Christi, TX",TX,CRP Airport,USA
+CYS,"Cheyenne, WY",WY,CYS Airport,USA
+DEC,"Decatur, IL",IL,DEC Airport,USA
+DVL,"Devils Lake, ND",ND,DVL Airport,USA
+FOD,"Fort Dodge, IA",IA,FOD Airport,USA
+FOE,"Topeka, KS",KS,FOE Airport,USA
+GCC,"Gillette, WY",WY,GCC Airport,USA
+GFK,"Grand Forks, ND",ND,GFK Airport,USA
+HLN,"Helena, MT",MT,HLN Airport,USA
+HOB,"Hobbs, NM",NM,HOB Airport,USA
+HSV,"Huntsville, AL",AL,HSV Airport,USA
+HYS,"Hays, KS",KS,HYS Airport,USA
+JLN,"Joplin, MO",MO,JLN Airport,USA
+JMS,"Jamestown, ND",ND,JMS Airport,USA
+LAR,"Laramie, WY",WY,LAR Airport,USA
+LFT,"Lafayette, LA",LA,LFT Airport,USA
+LSE,"La Crosse, WI",WI,LSE Airport,USA
+MBS,"Saginaw/Bay City/Midland, MI",MI,MBS Airport,USA
+MCW,"Mason City, IA",IA,MCW Airport,USA
+MEI,"Meridian, MS",MS,MEI Airport,USA
+MHK,"Manhattan/Ft. Riley, KS",KS,MHK Airport,USA
+OKC,"Oklahoma City, OK",OK,OKC Airport,USA
+PIB,"Hattiesburg/Laurel, MS",MS,PIB Airport,USA
+RIW,"Riverton/Lander, WY",WY,RIW Airport,USA
+SLN,"Salina, KS",KS,SLN Airport,USA
+SUX,"Sioux City, IA",IA,SUX Airport,USA
+SWO,"Stillwater, OK",OK,SWO Airport,USA
+XWA,"Williston, ND",ND,XWA Airport,USA
+YWG,"Winnipeg, Canada",MB,YWG Airport,USA
+LUX,"Luxembourg, Luxembourg",,LUX Airport,USA
+NWI,"Norwich, United Kingdom",,NWI Airport,USA
+CBG,"Cambridge, United Kingdom",,CBG Airport,USA
+FKB,"Karlsruhe/Baden-Baden, Germany",,FKB Airport,USA
+CXI,"Christmas Island, Kiribati",,CXI Airport,USA
+T6X,"Houston, TX",TX,T6X Airport,USA
+YVC,"Lac La Ronge, Canada",SK,YVC Airport,USA
+BTS,"Bratislava, Slovakia",,BTS Airport,USA
+A73,"McKinley Park, AK",AK,A73 Airport,USA
+BDS,"Brindisi, Italy",,BDS Airport,USA
+PAD,"Paderborn, Germany",,PAD Airport,USA
+BJI,"Bemidji, MN",MN,BJI Airport,USA
+BRD,"Brainerd, MN",MN,BRD Airport,USA
+ABY,"Albany, GA",GA,ABY Airport,USA
+EVV,"Evansville, IN",IN,EVV Airport,USA
+FSM,"Fort Smith, AR",AR,FSM Airport,USA
+GGG,"Longview, TX",TX,GGG Airport,USA
+GRK,"Killeen, TX",TX,GRK Airport,USA
+JAN,"Jackson/Vicksburg, MS",MS,JAN Airport,USA
+LAW,"Lawton/Fort Sill, OK",OK,LAW Airport,USA
+SPS,"Wichita Falls, TX",TX,SPS Airport,USA
+TXK,"Texarkana, AR",AR,TXK Airport,USA
+TYR,"Tyler, TX",TX,TYR Airport,USA
+DHN,"Dothan, AL",AL,DHN Airport,USA
+HIB,"Hibbing, MN",MN,HIB Airport,USA
+EMT,"El Monte, CA",CA,EMT Airport,USA
+6CA,"Little River, CA",CA,6CA Airport,USA
+YHD,"Dryden, Canada",ON,YHD Airport,USA
+SYI,"Shelbyville/Tullahoma, TN",TN,SYI Airport,USA
+KLU,"Klagenfurt, Austria",,KLU Airport,USA
+WSM,"Wiseman, AK",AK,WSM Airport,USA
+SSF,"San Antonio, TX",TX,SSF Airport,USA
+PUC,"Price, UT",UT,PUC Airport,USA
+MTX,"Fairbanks, AK",AK,MTX Airport,USA
+A6K,"Fairbanks1, AK",AK,A6K Airport,USA
+GEK,"Ganes Creek, AK",AK,GEK Airport,USA
+A63,"Yukon Charley Rivvers, AK",AK,A63 Airport,USA
+TKA,"Talkeetna, AK",AK,TKA Airport,USA
+BNE,"Brisbane, Australia",,BNE Airport,USA
+FUN,"Funafuti, Tuvalu",,FUN Airport,USA
+VCT,"Victoria, TX",TX,VCT Airport,USA
+GUA,"Guatemala City, Guatemala",,GUA Airport,USA
+HAV,"Havana, Cuba",,HAV Airport,USA
+SLP,"San Luis Potosi, Mexico",,SLP Airport,USA
+SZT,"San Cristobal, Mexico",,SZT Airport,USA
+QMA,"Kennesaw, GA",GA,QMA Airport,USA
+IKK,"Kankakee, IL",IL,IKK Airport,USA
+JHF,"Sao Rogue, Brazil",,JHF Airport,USA
+TAR,"Taranto, Italy",,TAR Airport,USA
+ZNQ,"Ingolstadt, Germany",,ZNQ Airport,USA
+MMX,"Malmo, Sweden",,MMX Airport,USA
+SGD,"Sonderborg, Denmark",,SGD Airport,USA
+RKE,"Copenhagen, Denmark",,RKE Airport,USA
+ODE,"Odense, Denmark",,ODE Airport,USA
+FMO,"Greven, Germany",,FMO Airport,USA
+YQM,"Moncton, Canada",NB,YQM Airport,USA
+MDO,"Middleton Island, AK",AK,MDO Airport,USA
+RQI,"Nixon Fork Mine, AK",AK,RQI Airport,USA
+LGG,"Liege, Belgium",,LGG Airport,USA
+4NC,"Andrews, NC",NC,4NC Airport,USA
+M91,"Springfield, TN",TN,M91 Airport,USA
+MRB,"Martinsburg, WV",WV,MRB Airport,USA
+TUP,"Tupelo, MS",MS,TUP Airport,USA
+MO6,"Lees Summit, MO",MO,MO6 Airport,USA
+AAF,"Apalachicola, FL",FL,AAF Airport,USA
+ALE,"Alpine, TX",TX,ALE Airport,USA
+LOT,"Chicago/Romeoville, IL",IL,LOT Airport,USA
+UOX,"Oxford, MS",MS,UOX Airport,USA
+BJX,"Leon/Guanajuato, Mexico",,BJX Airport,USA
+A5K,"Paxson, AK",AK,A5K Airport,USA
+GKN,"Gulkana, AK",AK,GKN Airport,USA
+LIV,"Livengood, AK",AK,LIV Airport,USA
+KEB,"Nanwalek, AK",AK,KEB Airport,USA
+AHN,"Athens, GA",GA,AHN Airport,USA
+HAO,"Hamilton, OH",OH,HAO Airport,USA
+FCM,"Minneapolis, MN",MN,FCM Airport,USA
+N8C,"Oak Island, NC",NC,N8C Airport,USA
+EKO,"Elko, NV",NV,EKO Airport,USA
+RLU,"Bornite/Ruby Creek, AK",AK,RLU Airport,USA
+MYK,"May Creek, AK",AK,MYK Airport,USA
+CYT,"Cape Yakataga, AK",AK,CYT Airport,USA
+FWL,"Farewell, AK",AK,FWL Airport,USA
+ZNC,"Nyac, AK",AK,ZNC Airport,USA
+CDV,"Cordova, AK",AK,CDV Airport,USA
+CKY,"Conakry, Guinea",,CKY Airport,USA
+CMN,"Casablanca, Morocco",,CMN Airport,USA
+CCF,"Carcassonne, France",,CCF Airport,USA
+CKU,"Cordova, AK",AK,CKU Airport,USA
+VZY,"Katmai Lodge, AK",AK,VZY Airport,USA
+ANB,"Anniston, AL",AL,ANB Airport,USA
+CUU,"Chihuahua, Mexico",,CUU Airport,USA
+DRT,"Del Rio, TX",TX,DRT Airport,USA
+HMO,"Hermosillo, Mexico",,HMO Airport,USA
+MRC,"Columbia, TN",TN,MRC Airport,USA
+OSC,"Oscoda, MI",MI,OSC Airport,USA
+SLW,"Saltillo, Mexico",,SLW Airport,USA
+DIA,"Doha, Qatar",,DIA Airport,USA
+LGW,"London, United Kingdom",,LGW Airport,USA
+LAD,"Luanda, Angola",,LAD Airport,USA
+PT1,"Cascais, Portugal",,PT1 Airport,USA
+CLO,"Cali, Colombia",,CLO Airport,USA
+STI,"Santiago, Dominican Republic",,STI Airport,USA
+GVL,"Gainesville, GA",GA,GVL Airport,USA
+GVT,"Greenville, TX",TX,GVT Airport,USA
+EFD,"Houston, TX",TX,EFD Airport,USA
+AGU,"Aguascalientes, Mexico",,AGU Airport,USA
+MTY,"Monterrey, Mexico",,MTY Airport,USA
+ZIH,"Ixtapa/Zihuatanejo, Mexico",,ZIH Airport,USA
+PBC,"Puebla, Mexico",,PBC Airport,USA
+1TX,"Dumas, TX",TX,1TX Airport,USA
+CPS,"St. Louis, MO",MO,CPS Airport,USA
+MSL,"Muscle Shoals, AL",AL,MSL Airport,USA
+MWA,"Marion/Herrin, IL",IL,MWA Airport,USA
+PKB,"Parkersburg, WV",WV,PKB Airport,USA
+SOW,"Show Low, AZ",AZ,SOW Airport,USA
+TBN,"Fort Leonard Wood, MO",MO,TBN Airport,USA
+OWB,"Owensboro, KY",KY,OWB Airport,USA
+FST,"Ft. Stockton, TX",TX,FST Airport,USA
+LGU,"Logan, UT",UT,LGU Airport,USA
+BXK,"Buckeye, AZ",AZ,BXK Airport,USA
+A27,"Pogo Mines, AK",AK,A27 Airport,USA
+MAY,"Mangrove Cay, The Bahamas",,MAY Airport,USA
+ANR,"Antwerp, Belgium",,ANR Airport,USA
+EAU,"Eau Claire, WI",WI,EAU Airport,USA
+CNE,"Canon City, CO",CO,CNE Airport,USA
+SBZ,"Sibiu, Romania",,SBZ Airport,USA
+BBU,"Bucharest, Romania",,BBU Airport,USA
+GUF,"Gulf Shores, AL",AL,GUF Airport,USA
+ADJ,"Amman, Jordan",,ADJ Airport,USA
+NYL,"Yuma, AZ",AZ,NYL Airport,USA
+WYS,"West Yellowstone, MT",MT,WYS Airport,USA
+TOS,"Tromso, Norway",,TOS Airport,USA
+ACH,"Altenrhein, Switzerland",,ACH Airport,USA
+OSH,"Oshkosh, WI",WI,OSH Airport,USA
+BEL,"Belem, Brazil",,BEL Airport,USA
+SIR,"Sion, Switzerland",,SIR Airport,USA
+OXF,"Oxford, United Kingdom",,OXF Airport,USA
+LRT,"Lorient, France",,LRT Airport,USA
+CWL,"Cardiff, United Kingdom",,CWL Airport,USA
+CRL,"Charleroi, Belgium",,CRL Airport,USA
+BRQ,"Brno, Czech Republic",,BRQ Airport,USA
+CH2,"St Stephan, Switzerland",,CH2 Airport,USA
+ROB,"Monrovia, Liberia",,ROB Airport,USA
+ISO,"Kinston, NC",NC,ISO Airport,USA
+TUF,"Tours, France",,TUF Airport,USA
+YZV,"Sept-Iles, Canada",QC,YZV Airport,USA
+OWK,"Norridgewock, ME",ME,OWK Airport,USA
+CWA,"Mosinee, WI",WI,CWA Airport,USA
+ONP,"Newport, OR",OR,ONP Airport,USA
+LNN,"Willoughby, OH",OH,LNN Airport,USA
+AIK,"Aiken, SC",SC,AIK Airport,USA
+MQJ,"Indianapolis, IN",IN,MQJ Airport,USA
+BKG,"Branson, MO",MO,BKG Airport,USA
+BKW,"Beckley, WV",WV,BKW Airport,USA
+FHB,"Fernandina Beach, FL",FL,FHB Airport,USA
+AND,"Anderson, SC",SC,AND Airport,USA
+AUZ,"Aurora, IL",IL,AUZ Airport,USA
+BKX,"Brookings, SD",SD,BKX Airport,USA
+BWG,"Bowling Green, KY",KY,BWG Airport,USA
+GDC,"Greenville, SC",SC,GDC Airport,USA
+MZJ,"Marana, AZ",AZ,MZJ Airport,USA
+VEL,"Vernal, UT",UT,VEL Airport,USA
+ELD,"El Dorado, AR",AR,ELD Airport,USA
+EDE,"Edenton, NC",NC,EDE Airport,USA
+PWA,"Oklahoma City, OK",OK,PWA Airport,USA
+SFH,"San Felipe, Mexico",,SFH Airport,USA
+FL8,"Deland, FL",FL,FL8 Airport,USA
+UTO,"Utopia, AK",AK,UTO Airport,USA
+MXY,"McCarthy, AK",AK,MXY Airport,USA
+TVF,"Thief River Falls, MN",MN,TVF Airport,USA
+DQL,"Anchorage, AK",AK,DQL Airport,USA
+DUJ,"DuBois, PA",PA,DUJ Airport,USA
+VRN,"Verona, Italy",,VRN Airport,USA
+RLG,"Rostock-Laage, Germany",,RLG Airport,USA
+MEX,"Mexico City, Mexico",,MEX Airport,USA
+ALO,"Waterloo, IA",IA,ALO Airport,USA
+A72,"Chinitna Bay, AK",AK,A72 Airport,USA
+BAM,"Battle Mountain, NV",NV,BAM Airport,USA
+FYV,"Fayetteville, AR",AR,FYV Airport,USA
+HKY,"Hickory, NC",NC,HKY Airport,USA
+FLO,"Florence, SC",SC,FLO Airport,USA
+OAJ,"Jacksonville/Camp Lejeune, NC",NC,OAJ Airport,USA
+EWN,"New Bern/Morehead/Beaufort, NC",NC,EWN Airport,USA
+HTS,"Ashland, WV",WV,HTS Airport,USA
+VLD,"Valdosta, GA",GA,VLD Airport,USA
+DCU,"Decatur, AL",AL,DCU Airport,USA
+DTO,"Denton, TX",TX,DTO Airport,USA
+LTO,"Loreto, Mexico",,LTO Airport,USA
+YXY,"Whitehorse, Canada",YT,YXY Airport,USA
+VPS,"Valparaiso, FL",FL,VPS Airport,USA
+TRC,"Torreon, Mexico",,TRC Airport,USA
+DRF,"Drift River, AK",AK,DRF Airport,USA
+VER,"Veracruz, Mexico",,VER Airport,USA
+ZCL,"Zacatecas, Mexico",,ZCL Airport,USA
+JBR,"Jonesboro, AR",AR,JBR Airport,USA
+SAP,"San Pedro Sula, Honduras",,SAP Airport,USA
+TAM,"Tampico, Mexico",,TAM Airport,USA
+ACA,"Acapulco, Mexico",,ACA Airport,USA
+MLM,"Morelia, Mexico",,MLM Airport,USA
+CDR,"Chadron, NE",NE,CDR Airport,USA
+GTR,"Columbus, MS",MS,GTR Airport,USA
+MID,"Merida, Mexico",,MID Airport,USA
+CYB,"Cayman Brac, Cayman Islands",,CYB Airport,USA
+TNT,"Miami, FL",FL,TNT Airport,USA
+DGO,"Durango, Mexico",,DGO Airport,USA
+CZM,"Cozumel, Mexico",,CZM Airport,USA
+HUX,"Santa Cruz/Huatulco, Mexico",,HUX Airport,USA
+HRO,"Harrison, AR",AR,HRO Airport,USA
+LGC,"LaGrange, GA",GA,LGC Airport,USA
+PSK,"Dublin, VA",VA,PSK Airport,USA
+POS,"Port of Spain, Trinidad and Tobago",,POS Airport,USA
+KSA,"Kosrae, Federated States of Micronesia",,KSA Airport,USA
+PTY,"Panama City, Panama",,PTY Airport,USA
+YQR,"Regina, Canada",SK,YQR Airport,USA
+KIN,"Kingston, Jamaica",,KIN Airport,USA
+MGA,"Managua, Nicaragua",,MGA Airport,USA
+KWA,"Kwajalein, Marshall Islands",,KWA Airport,USA
+SAL,"San Salvador, El Salvador",,SAL Airport,USA
+CAP,"Cap-Haitien, Haiti",,CAP Airport,USA
+JZM,"Hog River, AK",AK,JZM Airport,USA
+SVW,"Sparrevohn, AK",AK,SVW Airport,USA
+BLV,"Belleville, IL",IL,BLV Airport,USA
+POB,"Fayetteville, NC",NC,POB Airport,USA
+NHK,"Patuxent River, MD",MD,NHK Airport,USA
+TIK,"Oklahoma City, OK",OK,TIK Airport,USA
+TCM,"Tacoma, WA",WA,TCM Airport,USA
+N1C,"Cherry Point, NC",NC,N1C Airport,USA
+SUU,"Fairfield, CA",CA,SUU Airport,USA
+VZL,"Los Alamitos, CA",CA,VZL Airport,USA
+PAM,"Panama City, FL",FL,PAM Airport,USA
+HOP,"Hopkinsville, KY",KY,HOP Airport,USA
+DQK,"Fort Drum, NY",NY,DQK Airport,USA
+NZY,"San Diego, CA",CA,NZY Airport,USA
+RCA,"Rapid City, SD",SD,RCA Airport,USA
+PEI,"Pereira, Colombia",,PEI Airport,USA
+YZF,"Yellowknife, Canada",NT,YZF Airport,USA
+HOG,"Holguin, Cuba",,HOG Airport,USA
+YXE,"Saskatoon, Canada",SK,YXE Airport,USA
+XPL,"Comayagua, Honduras",,XPL Airport,USA
+TLS,"Toulouse, France",,TLS Airport,USA
+SKF,"San Antonio, TX",TX,SKF Airport,USA
+BYH,"Blytheville, AR",AR,BYH Airport,USA
+SNU,"Santa Clara, Cuba",,SNU Airport,USA
+NBW,"Guantanamo, Cuba",,NBW Airport,USA
+INS,"Indian Springs, NV",NV,INS Airport,USA
+MCF,"Tampa, FL",FL,MCF Airport,USA
+OFF,"Omaha, NE",NE,OFF Airport,USA
+LFI,"Newport News/Hampton, VA",VA,LFI Airport,USA
+NQX,"Key West, FL",FL,NQX Airport,USA
+TQO,"Tulum, Mexico",,TQO Airport,USA
+AXM,"Armenia, Colombia",,AXM Airport,USA
+BAQ,"Barranquilla, Colombia",,BAQ Airport,USA
+SCU,"Santiago, Cuba",,SCU Airport,USA
+BON,"Bonaire, Bonaire, Sint Eustatius, and Saba",,BON Airport,USA
+CMW,"Camaguey, Cuba",,CMW Airport,USA
+JVL,"Beloit/Janesville, WI",WI,JVL Airport,USA
+VRA,"Varadero, Cuba",,VRA Airport,USA
+MTO,"Mattoon/Charleston, IL",IL,MTO Airport,USA
+VOK,"Camp Douglas, WI",WI,VOK Airport,USA
+WRI,"Fort Dix, NJ",NJ,WRI Airport,USA
+MIE,"Muncie/Anderson/Newcastle, IN",IN,MIE Airport,USA
+BGA,"Bucaramanga, Colombia",,BGA Airport,USA
+NGU,"Norfolk, VA",VA,NGU Airport,USA
+MGE,"Marietta, GA",GA,MGE Airport,USA
+DLF,"Del Rio, TX",TX,DLF Airport,USA
+OAX,"Oaxaca, Mexico",,OAX Airport,USA
+FDF,"Fort de France, Martinique",,FDF Airport,USA
+CNW,"Waco, TX",TX,CNW Airport,USA
+PNI,"Pohnpei, Federated States of Micronesia",,PNI Airport,USA
+SSC,"Sumter, SC",SC,SSC Airport,USA
+NJK,"El Centro, CA",CA,NJK Airport,USA
+NKX,"San Diego, CA",CA,NKX Airport,USA
+ROR,"Koror, Palau",,ROR Airport,USA
+CDG,"Paris, France",,CDG Airport,USA
+MVN,"Mount Vernon, IL",IL,MVN Airport,USA
+UPN,"Uruapan, Mexico",,UPN Airport,USA
+CUL,"Culiacan, Mexico",,CUL Airport,USA
+FOR,"Fortaleza, Brazil",,FOR Airport,USA
+PMW,"Palmas, Brazil",,PMW Airport,USA
+CKV,"Clarksville, TN",TN,CKV Airport,USA
+YBG,"Saguenay, Canada",QC,YBG Airport,USA
+MEC,"Manta, Ecuador",,MEC Airport,USA
+SKA,"Spokane, WA",WA,SKA Airport,USA
+MIB,"Minot, ND",ND,MIB Airport,USA
+EDF,"Anchorage, AK",AK,EDF Airport,USA
+TCS,"Truth Or Consequences, NM",NM,TCS Airport,USA
+FDY,"Findlay, OH",OH,FDY Airport,USA
+YJT,"Stephenville, Canada",NL,YJT Airport,USA
+A20,"Alpine, AK",AK,A20 Airport,USA
+ANX,"Andeness, Norway",,ANX Airport,USA
+UUK,"Kuparuk, AK",AK,UUK Airport,USA
+YOC,"Old Crow, Canada",YT,YOC Airport,USA
+JNB,"Johannesburg, South Africa",,JNB Airport,USA
+1FL,"Titusville, FL",FL,1FL Airport,USA
+VQQ,"Jacksonville, FL",FL,VQQ Airport,USA
+NPA,"Pensacola, FL",FL,NPA Airport,USA
+TIA,"Tirana, Albania",,TIA Airport,USA
+DEL,"Delhi, India",,DEL Airport,USA
+HOW,"Balboa, Panama",,HOW Airport,USA
+GGH,"Cianorte, Brazil",,GGH Airport,USA
+TKK,"Chuuk, Federated States of Micronesia",,TKK Airport,USA
+OSN,"Osan, South Korea",,OSN Airport,USA
+VCP,"Sao Paulo, Brazil",,VCP Airport,USA
+CPT,"Cape Town, South Africa",,CPT Airport,USA
+YQU,"Grande Prairie, Canada",AB,YQU Airport,USA
+ARA,"New Iberia, LA",LA,ARA Airport,USA
+MVD,"Montevideo, Uruguay",,MVD Airport,USA
+NV5,"Gerlach, NV",NV,NV5 Airport,USA
+RMS,"Ramstein, Germany",,RMS Airport,USA
+IYK,"Inyokern, CA",CA,IYK Airport,USA
+BES,"Brest, France",,BES Airport,USA
+GSB,"Goldsboro, NC",NC,GSB Airport,USA
+ORY,"Paris, France",,ORY Airport,USA
+TPE,"Taipei, Taiwan",,TPE Airport,USA
+BRL,"Burlington, IA",IA,BRL Airport,USA
+DOL,"Deauville, France",,DOL Airport,USA
+ACC,"Accra, Ghana",,ACC Airport,USA
+OKO,"Tokyo, Japan",,OKO Airport,USA
+YXT,"Terrace, Canada",BC,YXT Airport,USA
+UKI,"Ukiah, CA",CA,UKI Airport,USA
+KUH,"Kushiro, Japan",,KUH Airport,USA
+POM,"Port Moresby, Papua New Guinea",,POM Airport,USA
+GGW,"Glasgow, MT",MT,GGW Airport,USA
+OLF,"Wolf Point, MT",MT,OLF Airport,USA
+ILN,"Wilmington, OH",OH,ILN Airport,USA
+MXF,"Montgomery, AL",AL,MXF Airport,USA
+AMM,"Amman, Jordan",,AMM Airport,USA
+AIA,"Alliance, NE",NE,AIA Airport,USA
+CEZ,"Cortez, CO",CO,CEZ Airport,USA
+HVR,"Havre, MT",MT,HVR Airport,USA
+BOM,"Mumbai, India",,BOM Airport,USA
+ALS,"Alamosa, CO",CO,ALS Airport,USA
+GDV,"Glendive, MT",MT,GDV Airport,USA
+DOH,"Doha, Qatar",,DOH Airport,USA
+DOV,"Dover, DE",DE,DOV Airport,USA
+EIL,"Fairbanks, AK",AK,EIL Airport,USA
+CNS,"Cairns, Australia",,CNS Airport,USA
+GKE,"Geilenkirchen, Germany",,GKE Airport,USA
+SJK,"Sao Jose Dos Campos, Brazil",,SJK Airport,USA
+ISR,"Istres, France",,ISR Airport,USA
+NOU,"Noumea, New Caledonia",,NOU Airport,USA
+UXK,"Petaluma, CA",CA,UXK Airport,USA
+UAM,"Guam, TT",TT,UAM Airport,USA
+UTP,"Utapao, Thailand",,UTP Airport,USA
+CAN,"Guangzhou, China",,CAN Airport,USA
+BFK,"Aurora, CO",CO,BFK Airport,USA
+PER,"Perth, Australia",,PER Airport,USA
+HHN,"Hahn, Germany",,HHN Airport,USA
+MSS,"Massena, NY",NY,MSS Airport,USA
+HRB,"Harbin, China",,HRB Airport,USA
+BLR,"Bangalore, India",,BLR Airport,USA
+YSJ,"Saint John, Canada",NB,YSJ Airport,USA
+IWD,"Ironwood, MI",MI,IWD Airport,USA
+CCS,"Caracas, Venezuela",,CCS Airport,USA
+CVN,"Clovis, NM",NM,CVN Airport,USA
+NTD,"Port Hueneme, CA",CA,NTD Airport,USA
+RAR,"Avarua, Cook Islands",,RAR Airport,USA
+SZX,"Shenzhen, China",,SZX Airport,USA
+CVS,"Clovis, NM",NM,CVS Airport,USA
+DNA,"Okinawa, Japan",,DNA Airport,USA
+HIF,"Ogden, UT",UT,HIF Airport,USA
+HIK,"Honolulu, HI",HI,HIK Airport,USA
+IWK,"Iwakuni, Japan",,IWK Airport,USA
+MSJ,"Misawa, Japan",,MSJ Airport,USA
+NIP,"Jacksonville, FL",FL,NIP Airport,USA
+NSY,"Sigonella, Italy",,NSY Airport,USA
+OST,"Ostend, Belgium",,OST Airport,USA
+SPM,"Spangdahlem, Germany",,SPM Airport,USA
+MAZ,"Mayaguez, PR",PR,MAZ Airport,USA
+CHC,"Christchurch, New Zealand",,CHC Airport,USA
+BKK,"Bangkok, Thailand",,BKK Airport,USA
+GUS,"Peru, IN",IN,GUS Airport,USA
+CTU,"Chengdu, China",,CTU Airport,USA
+LEJ,"Leipzig, Germany",,LEJ Airport,USA
+YAP,"Yap, Federated States of Micronesia",,YAP Airport,USA
+ORB,"Orebro, Sweden",,ORB Airport,USA
+CGO,"Zhengzhou, China",,CGO Airport,USA
+PEN,"Bayan Lepas, Malaysia",,PEN Airport,USA
+AVB,"Aviano, Italy",,AVB Airport,USA
+DMA,"Tucson, AZ",AZ,DMA Airport,USA
+EDW,"Edwards, CA",CA,EDW Airport,USA
+NUW,"Whidbey Island, WA",WA,NUW Airport,USA
+ROZ,"Rota, Spain",,ROZ Airport,USA
+RQK,"China Lake, CA",CA,RQK Airport,USA
+ATY,"Watertown, SD",SD,ATY Airport,USA
+RBN,"Fort Jefferson, FL",FL,RBN Airport,USA
+BFS,"Belfast, United Kingdom",,BFS Airport,USA
+VIT,"Vitoria, Spain",,VIT Airport,USA
+CKG,"Chongqing, China",,CKG Airport,USA
+FOC,"Fuzhou, China",,FOC Airport,USA
+IAB,"Wichita, KS",KS,IAB Airport,USA
+REC,"Recife, Brazil",,REC Airport,USA
+ADD,"Addis Ababa, Ethiopia",,ADD Airport,USA
+XMN,"Xiamen, China",,XMN Airport,USA
+PUS,"Busan, South Korea",,PUS Airport,USA
+LFW,"Lome, Togo",,LFW Airport,USA
+VAD,"Valdosta, GA",GA,VAD Airport,USA
+TAB,"Tobago, Trinidad and Tobago",,TAB Airport,USA
+TFU,"Chengdu, China",,TFU Airport,USA
+SSB,"Christiansted, VI",VI,SSB Airport,USA
+SPB,"Charlotte Amalie, VI",VI,SPB Airport,USA
+NCL,"Newcastle, United Kingdom",,NCL Airport,USA
+FUK,"Fukuoka, Japan",,FUK Airport,USA
+AVV,"Avalon, Australia",,AVV Airport,USA
+WUH,"Wuhan, China",,WUH Airport,USA
+TAS,"Tashkent, Uzbekistan",,TAS Airport,USA
+NBO,"Nairobi, Kenya",,NBO Airport,USA
+SHE,"Shenyang, China",,SHE Airport,USA
+TNA,"Jinan, China",,TNA Airport,USA
+EHU,"Ezhou, China",,EHU Airport,USA
+HGH,"Hangzhou, China",,HGH Airport,USA
+NKG,"Nanjing, China",,NKG Airport,USA
+CSX,"Changsha, China",,CSX Airport,USA
+HFE,"Hefei, China",,HFE Airport,USA
+HLI,"Hollister, CA",CA,HLI Airport,USA
+LUG,"Lugano, Switzerland",,LUG Airport,USA
+A70,"Village Islands, AK",AK,A70 Airport,USA
+CSN,"Carson City, NV",NV,CSN Airport,USA
+GTU,"Georgetown, TX",TX,GTU Airport,USA
+ISW,"Wisconsin Rapids, WI",WI,ISW Airport,USA
+YFC,"Fredericton, Canada",NB,YFC Airport,USA
+YPD,"Parry Sound, Canada",ON,YPD Airport,USA
+AZ8,"Green Valley, AZ",AZ,AZ8 Airport,USA
+LGI,"Deadman's Cay, The Bahamas",,LGI Airport,USA
+KSD,"Karlstad, Sweden",,KSD Airport,USA
+BRE,"Bremen, Germany",,BRE Airport,USA
+LJU,"Ljubljana, Slovenia",,LJU Airport,USA
+ISL,"Istanbul, Turkey",,ISL Airport,USA
+VBS,"Brescia, Italy",,VBS Airport,USA
+ALN,"Alton, IL",IL,ALN Airport,USA
+NTE,"Nantes, France",,NTE Airport,USA
+BOD,"Bordeaux, France",,BOD Airport,USA
+FNI,"Nimes, France",,FNI Airport,USA
+ASU,"Asuncion, Paraguay",,ASU Airport,USA
+EKI,"Elkhart, IN",IN,EKI Airport,USA
+DYU,"Dushanbe, Tajikistan",,DYU Airport,USA
+NOC,"Connaught, Ireland",,NOC Airport,USA
+FIH,"Kinshasa, Congo (Kinshasa)",,FIH Airport,USA
+CFU,"Corfu, Greece",,CFU Airport,USA
+FEZ,"Fez, Morocco",,FEZ Airport,USA
+USH,"Ushuaia, Argentina",,USH Airport,USA
+HLA,"Lanseria, South Africa",,HLA Airport,USA
+DND,"Dundee, United Kingdom",,DND Airport,USA
+SAW,"Istanbul, Turkey",,SAW Airport,USA
+CJJ,"Cheongju, South Korea",,CJJ Airport,USA
+TTU,"Tetuan, Morocco",,TTU Airport,USA
+SEN,"Southend-On-Sea, United Kingdom",,SEN Airport,USA
+SKG,"Thessaloniki, Greece",,SKG Airport,USA
+COO,"Cotonou, Benin",,COO Airport,USA
+BYK,"Bouake, Cote d'Ivoire",,BYK Airport,USA
+SSH,"Sharm El Sheikh, Egypt",,SSH Airport,USA
+GRS,"Grosseto, Italy",,GRS Airport,USA
+ABJ,"Abidjan, Cote d'Ivoire",,ABJ Airport,USA
+XIY,"Xi'an, China",,XIY Airport,USA
+OSD,"Ostersund, Sweden",,OSD Airport,USA
+AEP,"Buenos Aires, Argentina",,AEP Airport,USA
+BOB,"Bora Bora, French Polynesia",,BOB Airport,USA
+DMK,"Bangkok, Thailand",,DMK Airport,USA
+CEG,"Chester, United Kingdom",,CEG Airport,USA
+KMS,"Kumasi, Ghana",,KMS Airport,USA
+WRO,"Wroclaw, Poland",,WRO Airport,USA
+MED,"Medina, Saudi Arabia",,MED Airport,USA
+BIQ,"Biarritz, France",,BIQ Airport,USA
+AMD,"Ahmedabad, India",,AMD Airport,USA
+PMF,"Parma, Italy",,PMF Airport,USA
+CUZ,"Cusco, Peru",,CUZ Airport,USA
+LBV,"Libreville, Gabon",,LBV Airport,USA
+CIY,"Comiso, Italy",,CIY Airport,USA
+SCN,"Saarbrucken, Germany",,SCN Airport,USA
+GVE,"Gordonville, VA",VA,GVE Airport,USA
+ALC,"Alicante, Spain",,ALC Airport,USA
+CEQ,"Cannes, France",,CEQ Airport,USA
+IQQ,"Iquique, Chile",,IQQ Airport,USA
+NH4,"Moultonboro, NH",NH,NH4 Airport,USA
+GGE,"Georgetown, SC",SC,GGE Airport,USA
+AYS,"Waycross, GA",GA,AYS Airport,USA
+GPZ,"Grand Rapids, MN",MN,GPZ Airport,USA
+B21,"Carrabassett, ME",ME,B21 Airport,USA
+MA6,"Hopedale, MA",MA,MA6 Airport,USA
+PA2,"Bedford, PA",PA,PA2 Airport,USA
+5FL,"Apalachicola, FL",FL,5FL Airport,USA
+SPW,"Spencer, IA",IA,SPW Airport,USA
+TN9,"Sevierville, TN",TN,TN9 Airport,USA
+XXO,"Hurricane, UT",UT,XXO Airport,USA
+HUL,"Houlton, ME",ME,HUL Airport,USA
+BOK,"Brookings, OR",OR,BOK Airport,USA
+BYJ,"Beja, Portugal",,BYJ Airport,USA
+XXX,"Mena, AR",AR,XXX Airport,USA
+MPL,"Montpellier, France",,MPL Airport,USA
+DE5,"Baden-Wurttemberg, Germany",,DE5 Airport,USA
+FQI,"Scott, KY",KY,FQI Airport,USA
+RBW,"Walterboro, SC",SC,RBW Airport,USA
+THA,"Tullahoma, TN",TN,THA Airport,USA
+GRX,"Granada, Spain",,GRX Airport,USA
+AGA,"Agadir, Morocco",,AGA Airport,USA
+WTT,"Whittier, AK",AK,WTT Airport,USA
+KJK,"Kortrijk, Belgium",,KJK Airport,USA
+LYN,"Lyon, France",,LYN Airport,USA
+CND,"Constanta, Romania",,CND Airport,USA
+YQT,"Thunder Bay, Canada",ON,YQT Airport,USA
+HOR,"Horta, Portugal",,HOR Airport,USA
+DLM,"Dalaman, Turkey",,DLM Airport,USA
+MCP,"Macapa, Brazil",,MCP Airport,USA
+VAR,"Varna, Bulgaria",,VAR Airport,USA
+PIO,"Pisco, Peru",,PIO Airport,USA
+ORE,"Orleans, France",,ORE Airport,USA
+FUE,"Fuerteventura, Spain",,FUE Airport,USA
+SDL,"Sundsvall, Sweden",,SDL Airport,USA
+RJK,"Rijeka, Croatia",,RJK Airport,USA
+LRF,"Jacksonville, AR",AR,LRF Airport,USA
+FFO,"Dayton, OH",OH,FFO Airport,USA
+GYN,"Goiania, Brazil",,GYN Airport,USA
+OOL,"Gold Coast, Australia",,OOL Airport,USA
+PXO,"Porto Santo, Portugal",,PXO Airport,USA
+XJD,"Doha, Qatar",,XJD Airport,USA
+CBR,"Canberra, Australia",,CBR Airport,USA
+SZL,"Knob Noster, MO",MO,SZL Airport,USA
+MCT,"Muscat, Oman",,MCT Airport,USA
+NKC,"Nouakchott, Mauritania",,NKC Airport,USA
+CIX,"Chiclayo, Peru",,CIX Airport,USA
+KHH,"Kaohsiung, Taiwan",,KHH Airport,USA
+GBE,"Gaborone, Botswana",,GBE Airport,USA
+ATQ,"Amritsar, India",,ATQ Airport,USA
+AAL,"Aalborg, Denmark",,AAL Airport,USA
+HAK,"Haikou, China",,HAK Airport,USA
+ROS,"Rosario, Argentina",,ROS Airport,USA
+AGT,"Ciudad del Este, Paraguay",,AGT Airport,USA
+ANF,"Antofagasta, Chile",,ANF Airport,USA
+CAY,"Cayenne, French Guiana",,CAY Airport,USA
+CFB,"Cabo Frio, Brazil",,CFB Airport,USA
+CWB,"Curitiba, Brazil",,CWB Airport,USA
+VIX,"Vitoria, Brazil",,VIX Airport,USA
+QPG,"Singapore, Singapore",,QPG Airport,USA
+CCP,"Concepcion, Chile",,CCP Airport,USA
+ADB,"Izmir, Turkey",,ADB Airport,USA
+JAI,"Jaipur, India",,JAI Airport,USA
+KKJ,"Kitakyushu, Japan",,KKJ Airport,USA
+CJU,"Jeju, South Korea",,CJU Airport,USA
+KOJ,"Kagoshima, Japan",,KOJ Airport,USA
+SYA,"Shemya, AK",AK,SYA Airport,USA
+KCH,"Kuching, Malaysia",,KCH Airport,USA
+PNH,"Phnom Penh, Cambodia",,PNH Airport,USA
+PRN,"Pristina, Kosovo",,PRN Airport,USA
+TMP,"Tampere, Finland",,TMP Airport,USA
+VVI,"Santa Cruz, Bolivia",,VVI Airport,USA
+VBG,"Lompoc, CA",CA,VBG Airport,USA
+CHR,"Chateauroux, France",,CHR Airport,USA
+NGB,"Ningbo, China",,NGB Airport,USA
+BAH,"Manama, Bahrain",,BAH Airport,USA
+OHA,"Ohakea, New Zealand",,OHA Airport,USA
+JO3,"Azraq, Jordan",,JO3 Airport,USA
+TYN,"Taiyuan, China",,TYN Airport,USA
+WUX,"Wuxi, China",,WUX Airport,USA
